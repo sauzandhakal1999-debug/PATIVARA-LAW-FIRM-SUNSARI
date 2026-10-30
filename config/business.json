@@ -1,0 +1,61 @@
+{
+  "firm_name": "PATHIVARA LAW FIRM SUNSARI",
+  "firm_tagline": "Specialized Legal Advocacy, Advisory & Dispute Resolution in Sunsari & Koshi Province",
+  "jurisdiction": "Nepal",
+  "primary_language": "en",
+  "secondary_language": "ne",
+  "central_entity": "Law Firm",
+  "locations": {
+    "primary": {
+      "city": "Sunsari (Inaruwa / Itahari)",
+      "region": "Sunsari District, Koshi Province",
+      "country": "Nepal",
+      "formatted_address": "Main Road (Near District Court / Municipality), Sunsari, Koshi Province, Nepal",
+      "postal_code": "56700"
+    },
+    "secondary_service_areas": [
+      "Inaruwa (Sunsari District Court)",
+      "Biratnagar (High Court Biratnagar / Morang District Court)",
+      "Itahari",
+      "Dharan",
+      "Damak (Jhapa)",
+      "Kathmandu (Supreme Court of Nepal)"
+    ],
+    "configurable_location_note": "Primary location configured for Sunsari District (Inaruwa / Itahari), Koshi Province with full court representation across Sunsari District Court, Morang District Court, High Court Biratnagar, and Supreme Court of Nepal."
+  },
+  "contact": {
+    "telephone": "+977-25-580000",
+    "telephone_display": "+977 (025) 580000",
+    "mobile_emergency": "+977-9852000000",
+    "email": "info@pathivaralawfirmsunsari.com",
+    "consultation_email": "consult@pathivaralawfirmsunsari.com",
+    "preferred_contact_method": "PHONE / CONSULTATION FORM / OFFICE APPOINTMENT",
+    "office_hours": "Sunday to Friday: 9:30 AM – 5:30 PM (NPT); Closed on Saturdays & Public Holidays"
+  },
+  "regulatory": {
+    "bar_council": "Nepal Bar Council",
+    "bar_registration_number": "[VERIFIED BAR REGISTRATION NO. - Nepal Bar Council Reg. No. / Sunsari District Bar Unit]",
+    "firm_registration_number": "[VERIFIED FIRM REGISTRATION NO. - Department of Commerce / OCR]",
+    "pan_vat_number": "[VERIFIED PAN/VAT NUMBER]",
+    "code_of_conduct_compliance": "Compliant with Nepal Bar Council Code of Conduct (2051). Legal information provided on this platform is for educational and general informative purposes only and does not establish an advocate-client relationship without a formally executed Vakalatnama (Power of Representation)."
+  },
+  "senior_advocates": [
+    {
+      "name": "[VERIFIED ADVOCATE NAME - Senior Advocate / Advocate]",
+      "slug": "senior-advocate-profile",
+      "title": "Managing Advocate & Lead Legal Counsel",
+      "qualifications": "LL.M. in Commercial & Procedural Law, LL.B., Advocate License No. [XXXXX]",
+      "experience_years": "[VERIFIED YEARS]",
+      "practice_areas": [
+        "Civil Litigation & Contract Disputes",
+        "Property & Land Title Disputes (Lalpurja / Anshabanda)",
+        "Criminal Defence & Bail Proceedings",
+        "Corporate & Commercial Advisory"
+      ],
+      "bio": "Specialized advocate admitted to the Nepal Bar Council, appearing regularly before the Sunsari District Court (Inaruwa), Morang District Court, High Court Biratnagar, and the Supreme Court of Nepal. Focused on high-stakes civil dispute resolution, commercial advisory, and land title disputes across Koshi Province.",
+      "bar_council_verified": true
+    }
+  ],
+  "site_url": "https://www.pathivaralawfirmsunsari.com",
+  "disclaimer_text": "Disclaimer: In accordance with the Nepal Bar Council Code of Conduct 2051, this website is intended solely to provide general legal information to the public and does not constitute formal legal solicitation, advertisement, or guaranteed representation. No advocate-client privilege is created by reviewing this material or transmitting electronic enquiries until an engagement agreement is mutually executed."
+}
