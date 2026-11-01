@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Comprehensive Automated QA & Verification Test Suite for Pathivara Law Firm Itahari.
+Comprehensive Automated QA & Verification Test Suite for PATHIVARA LAW FIRM SUNSARI.
 Validates:
 1. All 56 routes and essential technical assets exist.
 2. 100% internal links resolve to valid destination files (zero 404s).
@@ -130,7 +130,7 @@ class TestLawFirmWebsite(unittest.TestCase):
             self.assertEqual(len(h1_matches), 1, f"Expected exactly one <h1> in {rel_file}, found {len(h1_matches)}")
 
     def test_canonical_urls(self):
-        site_url = self.config.get("site_url", "https://www.pathivaralawfirmitahari.com").rstrip("/")
+        site_url = self.config.get("site_url", "https://www.pathivaralawfirmsunsari.com").rstrip("/")
         for html_path in self.html_files:
             rel_file = os.path.relpath(html_path, DIST_DIR)
             with open(html_path, "r", encoding="utf-8") as f:
@@ -169,7 +169,7 @@ class TestLawFirmWebsite(unittest.TestCase):
         for u in urls:
             loc = u.find("ns:loc", namespace)
             self.assertIsNotNone(loc)
-            self.assertTrue(loc.text.startswith("https://www.pathivaralawfirmitahari.com"))
+            self.assertTrue(loc.text.startswith("https://www.pathivaralawfirmsunsari.com"))
             
             prio = u.find("ns:priority", namespace)
             self.assertIsNotNone(prio)

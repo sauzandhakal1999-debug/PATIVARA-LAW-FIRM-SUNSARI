@@ -1,4 +1,4 @@
-# Article and Legal Resources page renderers for Pathivara Law Firm Itahari
+# Article and Legal Resources page renderers for PATHIVARA LAW FIRM SUNSARI
 from src.data.articles import ArticlePage
 from builder.templates import (
     get_base_html, render_breadcrumbs, render_checklist, render_faq_accordion,
@@ -6,8 +6,8 @@ from builder.templates import (
 )
 
 def render_article_page(article: ArticlePage, config: dict):
-    firm_name = config.get("firm_name", "Pathivara Law Firm Itahari")
-    site_url = config.get("site_url", "https://www.pathivaralawfirmitahari.com")
+    firm_name = config.get("firm_name", "PATHIVARA LAW FIRM SUNSARI")
+    site_url = config.get("site_url", "https://www.pathivaralawfirmsunsari.com")
     canonical = f"/legal-resources/{article.slug}/"
 
     crumbs = [
@@ -158,10 +158,10 @@ def render_article_page(article: ArticlePage, config: dict):
     return get_base_html(article.meta_title, article.meta_description, canonical, body, schema, config, current_url=canonical)
 
 def render_resources_index(articles, config):
-    title = "Legal Resources, Guides & Statutory Insights in Nepal | Pathivara Law Firm Itahari"
+    title = "Legal Resources, Guides & Statutory Insights in Nepal | PATHIVARA LAW FIRM SUNSARI"
     description = "Browse 30 in-depth legal guides and procedural breakdowns across Nepalese civil litigation, criminal defence, divorce law, property verification, and corporate compliance."
     canonical = "/legal-resources/"
-    site_url = config.get("site_url", "https://www.pathivaralawfirmitahari.com")
+    site_url = config.get("site_url", "https://www.pathivaralawfirmsunsari.com")
 
     crumbs = [("Legal Resources", "")]
 

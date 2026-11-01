@@ -54,7 +54,7 @@ TEAM_MEMBERS: List[LawyerProfile] = [
             "Corporate Governance & Fiduciary Liabilities in Closely Held Companies (Nepal Law Review)",
             "Due Diligence Standards in Real Estate Acquisitions in Nepal (Commercial Law Journal)"
         ],
-        email="lead.counsel@pathivaralawfirmitahari.com",
+        email="lead.counsel@pathivaralawfirmsunsari.com",
         phone="+977-1-4240000",
         is_lead=True
     ),
@@ -88,7 +88,7 @@ TEAM_MEMBERS: List[LawyerProfile] = [
             "Labour Act 2074 & Social Security Compliance: Practical Guidelines for Employers",
             "Negotiable Instruments Act vs. Banking Offence Act: Navigating Cheque Dishonor Remedies in Nepal"
         ],
-        email="corporate@pathivaralawfirmitahari.com",
+        email="corporate@pathivaralawfirmsunsari.com",
         phone="+977-1-4240001",
         is_lead=False
     )

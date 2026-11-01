@@ -1,9 +1,9 @@
 # Semantic Topical Map & Information Architecture: Nepal Law Firm
 
 ## 1. Central Entity Definition & Jurisdiction
-- **Central Entity**: Law Firm (Pathivara Law Firm Itahari)
-- **Jurisdiction**: Nepal (District Courts, High Courts, Supreme Court of Nepal)
-- **Primary Market / Location**: Kathmandu (Configurable to Sunsari, Itahari, Inaruwa, Biratnagar, Pokhara)
+- **Central Entity**: Law Firm (PATHIVARA LAW FIRM SUNSARI)
+- **Jurisdiction**: Nepal (District Courts of Sunsari & Morang, High Court Biratnagar, Supreme Court of Nepal)
+- **Primary Market / Location**: Sunsari District (Inaruwa / Itahari / Dharan), Koshi Province, Nepal
 - **Regulatory Authority**: Nepal Bar Council (Admitted Advocates, Act 2050 & Code of Conduct 2051)
 - **Total Canonical URLs Planned & Indexed**: **56**
 
@@ -80,13 +80,13 @@
 ### 1. Specialized Legal Advocacy & Trusted Advisory in Nepal
 - **URL**: `/`
 - **Section**: Trust/Support
-- **Page Title**: Specialized Legal Advocacy & Trusted Advisory in Nepal | Pathivara Law Firm Itahari
+- **Page Title**: Specialized Legal Advocacy & Trusted Advisory in Nepal | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: Specialized Legal Advocacy & Trusted Advisory in Nepal. Dedicated legal guidance and professional counsel under Nepalese law.
 - **Semantics Covered**: Central Law Firm Entity, Brand Identity, Full Practice Scope
 - **Semantic Relationship to Entity**: Establishes law firm in nepal authority and operational governance
-- **Query Template**: `law firm in nepal apex law chambers nepal`
+- **Query Template**: `law firm in nepal pathivara law firm sunsari`
 - **Primary Keyword**: Law Firm in Nepal
-- **Secondary Keywords**: Law Firm in Nepal Kathmandu, Nepal legal counsel, Nepal Bar Council standards
+- **Secondary Keywords**: Law Firm in Nepal Sunsari, Koshi Province, Nepal legal counsel, Nepal Bar Council standards
 - **Search Intent**: Informational / Compliance
 - **User Journey Stage**: Decision
 - **Important Attributes**: Central Entity, Nepal Jurisdiction, Nepal Bar Council Standards
@@ -99,13 +99,13 @@
 ### 2. Dedicated to Principled Advocacy & Strategic Legal Counsel in Nepal
 - **URL**: `/about/`
 - **Section**: Trust/Support
-- **Page Title**: Dedicated to Principled Advocacy & Strategic Legal Counsel in Nepal | Pathivara Law Firm Itahari
+- **Page Title**: Dedicated to Principled Advocacy & Strategic Legal Counsel in Nepal | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: Dedicated to Principled Advocacy & Strategic Legal Counsel in Nepal. Dedicated legal guidance and professional counsel under Nepalese law.
 - **Semantics Covered**: Firm Philosophy, Court Admittance, History, Bar Standards
 - **Semantic Relationship to Entity**: Establishes about our law firm authority and operational governance
-- **Query Template**: `about our law firm apex law chambers nepal`
+- **Query Template**: `about our law firm pathivara law firm sunsari`
 - **Primary Keyword**: About Our Law Firm
-- **Secondary Keywords**: About Our Law Firm Kathmandu, Nepal legal counsel, Nepal Bar Council standards
+- **Secondary Keywords**: About Our Law Firm Sunsari, Koshi Province, Nepal legal counsel, Nepal Bar Council standards
 - **Search Intent**: Informational / Compliance
 - **User Journey Stage**: Evaluation / Compliance
 - **Important Attributes**: Central Entity, Nepal Jurisdiction, Nepal Bar Council Standards
@@ -118,13 +118,13 @@
 ### 3. Experienced Advocates & Legal Counsel Admitted in Nepal
 - **URL**: `/team/`
 - **Section**: Trust/Support
-- **Page Title**: Experienced Advocates & Legal Counsel Admitted in Nepal | Pathivara Law Firm Itahari
+- **Page Title**: Experienced Advocates & Legal Counsel Admitted in Nepal | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: Experienced Advocates & Legal Counsel Admitted in Nepal. Dedicated legal guidance and professional counsel under Nepalese law.
 - **Semantics Covered**: Advocates, Senior Advocates, Bar Numbers, Court Admissions
 - **Semantic Relationship to Entity**: Establishes our legal team & advocates authority and operational governance
-- **Query Template**: `our legal team & advocates apex law chambers nepal`
+- **Query Template**: `our legal team & advocates pathivara law firm sunsari`
 - **Primary Keyword**: Our Legal Team & Advocates
-- **Secondary Keywords**: Our Legal Team & Advocates Kathmandu, Nepal legal counsel, Nepal Bar Council standards
+- **Secondary Keywords**: Our Legal Team & Advocates Sunsari, Koshi Province, Nepal legal counsel, Nepal Bar Council standards
 - **Search Intent**: Informational / Compliance
 - **User Journey Stage**: Evaluation / Compliance
 - **Important Attributes**: Central Entity, Nepal Jurisdiction, Nepal Bar Council Standards
@@ -137,13 +137,13 @@
 ### 4. Senior Legal Counsel & Managing Advocate
 - **URL**: `/team/senior-advocate-profile/`
 - **Section**: Trust/Support
-- **Page Title**: Senior Legal Counsel & Managing Advocate | Pathivara Law Firm Itahari
+- **Page Title**: Senior Legal Counsel & Managing Advocate | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: Senior Legal Counsel & Managing Advocate. Dedicated legal guidance and professional counsel under Nepalese law.
 - **Semantics Covered**: Individual Advocate, Bar Registration Number, Practice Experience, Notable Areas
 - **Semantic Relationship to Entity**: Establishes senior advocate profile authority and operational governance
-- **Query Template**: `senior advocate profile apex law chambers nepal`
+- **Query Template**: `senior advocate profile pathivara law firm sunsari`
 - **Primary Keyword**: Senior Advocate Profile
-- **Secondary Keywords**: Senior Advocate Profile Kathmandu, Nepal legal counsel, Nepal Bar Council standards
+- **Secondary Keywords**: Senior Advocate Profile Sunsari, Koshi Province, Nepal legal counsel, Nepal Bar Council standards
 - **Search Intent**: Informational / Compliance
 - **User Journey Stage**: Evaluation / Compliance
 - **Important Attributes**: Central Entity, Nepal Jurisdiction, Nepal Bar Council Standards
@@ -156,13 +156,13 @@
 ### 5. Comprehensive Legal Practice Areas in Nepal
 - **URL**: `/services/`
 - **Section**: Core
-- **Page Title**: Comprehensive Legal Practice Areas in Nepal | Pathivara Law Firm Itahari
+- **Page Title**: Comprehensive Legal Practice Areas in Nepal | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: Comprehensive Legal Practice Areas in Nepal. Dedicated legal guidance and professional counsel under Nepalese law.
 - **Semantics Covered**: Full Index of Legal Services, Categorized Practice Areas
 - **Semantic Relationship to Entity**: Establishes legal services in nepal authority and operational governance
-- **Query Template**: `legal services in nepal apex law chambers nepal`
+- **Query Template**: `legal services in nepal pathivara law firm sunsari`
 - **Primary Keyword**: Legal Services in Nepal
-- **Secondary Keywords**: Legal Services in Nepal Kathmandu, Nepal legal counsel, Nepal Bar Council standards
+- **Secondary Keywords**: Legal Services in Nepal Sunsari, Koshi Province, Nepal legal counsel, Nepal Bar Council standards
 - **Search Intent**: Informational / Compliance
 - **User Journey Stage**: Decision
 - **Important Attributes**: Central Entity, Nepal Jurisdiction, Nepal Bar Council Standards
@@ -175,13 +175,13 @@
 ### 6. Schedule a Structured Legal Consultation
 - **URL**: `/legal-consultation/`
 - **Section**: Trust/Support
-- **Page Title**: Schedule a Structured Legal Consultation | Pathivara Law Firm Itahari
+- **Page Title**: Schedule a Structured Legal Consultation | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: Schedule a Structured Legal Consultation. Dedicated legal guidance and professional counsel under Nepalese law.
 - **Semantics Covered**: Consultation Protocol, What to Expect, Preparing Documents
 - **Semantic Relationship to Entity**: Establishes legal consultation in nepal authority and operational governance
-- **Query Template**: `legal consultation in nepal apex law chambers nepal`
+- **Query Template**: `legal consultation in nepal pathivara law firm sunsari`
 - **Primary Keyword**: Legal Consultation in Nepal
-- **Secondary Keywords**: Legal Consultation in Nepal Kathmandu, Nepal legal counsel, Nepal Bar Council standards
+- **Secondary Keywords**: Legal Consultation in Nepal Sunsari, Koshi Province, Nepal legal counsel, Nepal Bar Council standards
 - **Search Intent**: Navigational / Commercial / Trust
 - **User Journey Stage**: Decision
 - **Important Attributes**: Central Entity, Nepal Jurisdiction, Nepal Bar Council Standards
@@ -194,13 +194,13 @@
 ### 7. Contact Our Law Chambers in Nepal
 - **URL**: `/contact/`
 - **Section**: Trust/Support
-- **Page Title**: Contact Our Law Chambers in Nepal | Pathivara Law Firm Itahari
+- **Page Title**: Contact Our Law Chambers in Nepal | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: Contact Our Law Chambers in Nepal. Dedicated legal guidance and professional counsel under Nepalese law.
 - **Semantics Covered**: Contact Channels, Physical Office, Verified Phone, Email, Office Hours
 - **Semantic Relationship to Entity**: Establishes contact our law chambers authority and operational governance
-- **Query Template**: `contact our law chambers apex law chambers nepal`
+- **Query Template**: `contact our law chambers pathivara law firm sunsari`
 - **Primary Keyword**: Contact Our Law Chambers
-- **Secondary Keywords**: Contact Our Law Chambers Kathmandu, Nepal legal counsel, Nepal Bar Council standards
+- **Secondary Keywords**: Contact Our Law Chambers Sunsari, Koshi Province, Nepal legal counsel, Nepal Bar Council standards
 - **Search Intent**: Navigational / Commercial / Trust
 - **User Journey Stage**: Decision
 - **Important Attributes**: Central Entity, Nepal Jurisdiction, Nepal Bar Council Standards
@@ -213,13 +213,13 @@
 ### 8. Frequently Asked Legal Questions
 - **URL**: `/faqs/`
 - **Section**: Trust/Support
-- **Page Title**: Frequently Asked Legal Questions | Pathivara Law Firm Itahari
+- **Page Title**: Frequently Asked Legal Questions | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: Frequently Asked Legal Questions. Dedicated legal guidance and professional counsel under Nepalese law.
 - **Semantics Covered**: Frequently Asked Questions, Advocate Fees, Court Jurisdiction, Representation
 - **Semantic Relationship to Entity**: Establishes law firm frequently asked questions nepal authority and operational governance
-- **Query Template**: `law firm frequently asked questions nepal apex law chambers nepal`
+- **Query Template**: `law firm frequently asked questions nepal pathivara law firm sunsari`
 - **Primary Keyword**: Law Firm Frequently Asked Questions Nepal
-- **Secondary Keywords**: Law Firm Frequently Asked Questions Nepal Kathmandu, Nepal legal counsel, Nepal Bar Council standards
+- **Secondary Keywords**: Law Firm Frequently Asked Questions Nepal Sunsari, Koshi Province, Nepal legal counsel, Nepal Bar Council standards
 - **Search Intent**: Informational / Compliance
 - **User Journey Stage**: Evaluation / Compliance
 - **Important Attributes**: Central Entity, Nepal Jurisdiction, Nepal Bar Council Standards
@@ -232,13 +232,13 @@
 ### 9. Legal Resources, Guides & Statutory Insights in Nepal
 - **URL**: `/legal-resources/`
 - **Section**: Trust/Support
-- **Page Title**: Legal Resources, Guides & Statutory Insights in Nepal | Pathivara Law Firm Itahari
+- **Page Title**: Legal Resources, Guides & Statutory Insights in Nepal | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: Legal Resources, Guides & Statutory Insights in Nepal. Dedicated legal guidance and professional counsel under Nepalese law.
 - **Semantics Covered**: Resource Hub, Legal Guides, Statutory References, Clusters
 - **Semantic Relationship to Entity**: Establishes legal resources and educational hub nepal authority and operational governance
-- **Query Template**: `legal resources and educational hub nepal apex law chambers nepal`
+- **Query Template**: `legal resources and educational hub nepal pathivara law firm sunsari`
 - **Primary Keyword**: Legal Resources and Educational Hub Nepal
-- **Secondary Keywords**: Legal Resources and Educational Hub Nepal Kathmandu, Nepal legal counsel, Nepal Bar Council standards
+- **Secondary Keywords**: Legal Resources and Educational Hub Nepal Sunsari, Koshi Province, Nepal legal counsel, Nepal Bar Council standards
 - **Search Intent**: Informational / Compliance
 - **User Journey Stage**: Decision
 - **Important Attributes**: Central Entity, Nepal Jurisdiction, Nepal Bar Council Standards
@@ -251,13 +251,13 @@
 ### 10. Client Experiences & Professional Standards
 - **URL**: `/testimonials/`
 - **Section**: Trust/Support
-- **Page Title**: Client Experiences & Professional Standards | Pathivara Law Firm Itahari
+- **Page Title**: Client Experiences & Professional Standards | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: Client Experiences & Professional Standards. Dedicated legal guidance and professional counsel under Nepalese law.
 - **Semantics Covered**: Client Experiences, Bar Council Ethics Notice on Advertising
 - **Semantic Relationship to Entity**: Establishes client experiences & ethics notice authority and operational governance
-- **Query Template**: `client experiences & ethics notice apex law chambers nepal`
+- **Query Template**: `client experiences & ethics notice pathivara law firm sunsari`
 - **Primary Keyword**: Client Experiences & Ethics Notice
-- **Secondary Keywords**: Client Experiences & Ethics Notice Kathmandu, Nepal legal counsel, Nepal Bar Council standards
+- **Secondary Keywords**: Client Experiences & Ethics Notice Sunsari, Koshi Province, Nepal legal counsel, Nepal Bar Council standards
 - **Search Intent**: Informational / Compliance
 - **User Journey Stage**: Evaluation / Compliance
 - **Important Attributes**: Central Entity, Nepal Jurisdiction, Nepal Bar Council Standards
@@ -270,13 +270,13 @@
 ### 11. Privacy Policy & Client Data Confidentiality
 - **URL**: `/privacy-policy/`
 - **Section**: Trust/Support
-- **Page Title**: Privacy Policy & Client Data Confidentiality | Pathivara Law Firm Itahari
+- **Page Title**: Privacy Policy & Client Data Confidentiality | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: Privacy Policy & Client Data Confidentiality. Dedicated legal guidance and professional counsel under Nepalese law.
 - **Semantics Covered**: Data Privacy, Confidentiality of Legal Inquiries, Privacy Act 2075
 - **Semantic Relationship to Entity**: Establishes privacy policy authority and operational governance
-- **Query Template**: `privacy policy apex law chambers nepal`
+- **Query Template**: `privacy policy pathivara law firm sunsari`
 - **Primary Keyword**: Privacy Policy
-- **Secondary Keywords**: Privacy Policy Kathmandu, Nepal legal counsel, Nepal Bar Council standards
+- **Secondary Keywords**: Privacy Policy Sunsari, Koshi Province, Nepal legal counsel, Nepal Bar Council standards
 - **Search Intent**: Informational / Compliance
 - **User Journey Stage**: Evaluation / Compliance
 - **Important Attributes**: Central Entity, Nepal Jurisdiction, Nepal Bar Council Standards
@@ -289,13 +289,13 @@
 ### 12. Terms of Website Use
 - **URL**: `/terms-of-use/`
 - **Section**: Trust/Support
-- **Page Title**: Terms of Website Use | Pathivara Law Firm Itahari
+- **Page Title**: Terms of Website Use | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: Terms of Website Use. Dedicated legal guidance and professional counsel under Nepalese law.
 - **Semantics Covered**: Terms of Website Use, Intellectual Property, Limitation of Online Content
 - **Semantic Relationship to Entity**: Establishes terms of use authority and operational governance
-- **Query Template**: `terms of use apex law chambers nepal`
+- **Query Template**: `terms of use pathivara law firm sunsari`
 - **Primary Keyword**: Terms of Use
-- **Secondary Keywords**: Terms of Use Kathmandu, Nepal legal counsel, Nepal Bar Council standards
+- **Secondary Keywords**: Terms of Use Sunsari, Koshi Province, Nepal legal counsel, Nepal Bar Council standards
 - **Search Intent**: Informational / Compliance
 - **User Journey Stage**: Evaluation / Compliance
 - **Important Attributes**: Central Entity, Nepal Jurisdiction, Nepal Bar Council Standards
@@ -308,13 +308,13 @@
 ### 13. Legal Practice Disclaimer & Bar Council Notice
 - **URL**: `/legal-disclaimer/`
 - **Section**: Trust/Support
-- **Page Title**: Legal Practice Disclaimer & Bar Council Notice | Pathivara Law Firm Itahari
+- **Page Title**: Legal Practice Disclaimer & Bar Council Notice | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: Legal Practice Disclaimer & Bar Council Notice. Dedicated legal guidance and professional counsel under Nepalese law.
 - **Semantics Covered**: Legal Disclaimer, Nepal Bar Council Code of Conduct 2051
 - **Semantic Relationship to Entity**: Establishes legal practice disclaimer authority and operational governance
-- **Query Template**: `legal practice disclaimer apex law chambers nepal`
+- **Query Template**: `legal practice disclaimer pathivara law firm sunsari`
 - **Primary Keyword**: Legal Practice Disclaimer
-- **Secondary Keywords**: Legal Practice Disclaimer Kathmandu, Nepal legal counsel, Nepal Bar Council standards
+- **Secondary Keywords**: Legal Practice Disclaimer Sunsari, Koshi Province, Nepal legal counsel, Nepal Bar Council standards
 - **Search Intent**: Informational / Compliance
 - **User Journey Stage**: Evaluation / Compliance
 - **Important Attributes**: Central Entity, Nepal Jurisdiction, Nepal Bar Council Standards
@@ -327,13 +327,13 @@
 ### 14. Cookie and Tracking Policy
 - **URL**: `/cookie-policy/`
 - **Section**: Trust/Support
-- **Page Title**: Cookie and Tracking Policy | Pathivara Law Firm Itahari
+- **Page Title**: Cookie and Tracking Policy | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: Cookie and Tracking Policy. Dedicated legal guidance and professional counsel under Nepalese law.
 - **Semantics Covered**: Cookie Policy, Local Storage, Session State, User Preferences
 - **Semantic Relationship to Entity**: Establishes cookie policy authority and operational governance
-- **Query Template**: `cookie policy apex law chambers nepal`
+- **Query Template**: `cookie policy pathivara law firm sunsari`
 - **Primary Keyword**: Cookie Policy
-- **Secondary Keywords**: Cookie Policy Kathmandu, Nepal legal counsel, Nepal Bar Council standards
+- **Secondary Keywords**: Cookie Policy Sunsari, Koshi Province, Nepal legal counsel, Nepal Bar Council standards
 - **Search Intent**: Informational / Compliance
 - **User Journey Stage**: Evaluation / Compliance
 - **Important Attributes**: Central Entity, Nepal Jurisdiction, Nepal Bar Council Standards
@@ -346,13 +346,13 @@
 ### 15. Website Accessibility Statement
 - **URL**: `/accessibility/`
 - **Section**: Trust/Support
-- **Page Title**: Website Accessibility Statement | Pathivara Law Firm Itahari
+- **Page Title**: Website Accessibility Statement | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: Website Accessibility Statement. Dedicated legal guidance and professional counsel under Nepalese law.
 - **Semantics Covered**: Web Accessibility, WCAG 2.1 AA Compliance, Screen Reader Support, Keyboard Nav
 - **Semantic Relationship to Entity**: Establishes accessibility statement authority and operational governance
-- **Query Template**: `accessibility statement apex law chambers nepal`
+- **Query Template**: `accessibility statement pathivara law firm sunsari`
 - **Primary Keyword**: Accessibility Statement
-- **Secondary Keywords**: Accessibility Statement Kathmandu, Nepal legal counsel, Nepal Bar Council standards
+- **Secondary Keywords**: Accessibility Statement Sunsari, Koshi Province, Nepal legal counsel, Nepal Bar Council standards
 - **Search Intent**: Informational / Compliance
 - **User Journey Stage**: Evaluation / Compliance
 - **Important Attributes**: Central Entity, Nepal Jurisdiction, Nepal Bar Council Standards
@@ -365,13 +365,13 @@
 ### 16. Complete Website Sitemap & Page Directory
 - **URL**: `/sitemap/`
 - **Section**: Trust/Support
-- **Page Title**: Complete Website Sitemap & Page Directory | Pathivara Law Firm Itahari
+- **Page Title**: Complete Website Sitemap & Page Directory | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: Complete Website Sitemap & Page Directory. Dedicated legal guidance and professional counsel under Nepalese law.
 - **Semantics Covered**: HTML Sitemap, Complete Hierarchical Index of All Core, Outer, Trust
 - **Semantic Relationship to Entity**: Establishes html sitemap & architecture authority and operational governance
-- **Query Template**: `html sitemap & architecture apex law chambers nepal`
+- **Query Template**: `html sitemap & architecture pathivara law firm sunsari`
 - **Primary Keyword**: HTML Sitemap & Architecture
-- **Secondary Keywords**: HTML Sitemap & Architecture Kathmandu, Nepal legal counsel, Nepal Bar Council standards
+- **Secondary Keywords**: HTML Sitemap & Architecture Sunsari, Koshi Province, Nepal legal counsel, Nepal Bar Council standards
 - **Search Intent**: Informational / Compliance
 - **User Journey Stage**: Evaluation / Compliance
 - **Important Attributes**: Central Entity, Nepal Jurisdiction, Nepal Bar Council Standards
@@ -384,7 +384,7 @@
 ### 17. Civil Litigation & Dispute Resolution Legal Services in Nepal
 - **URL**: `/services/civil-litigation/`
 - **Section**: Core
-- **Page Title**: Civil Litigation & Dispute Resolution Legal Services in Nepal | Pathivara Law Firm Itahari
+- **Page Title**: Civil Litigation & Dispute Resolution Legal Services in Nepal | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: Experienced civil litigation advocates in Nepal handling contract disputes, recovery claims, property civil suits, and court injunctions in District and High Courts.
 - **Semantics Covered**: Substantive laws, procedural stages, evidence checklists, and court representation for Civil Litigation & Dispute Resolution
 - **Semantic Relationship to Entity**: High-intent commercial service offering for Civil Litigation & Dispute Resolution in Nepal
@@ -403,7 +403,7 @@
 ### 18. Criminal Law & Defence Representation Legal Services in Nepal
 - **URL**: `/services/criminal-law/`
 - **Section**: Core
-- **Page Title**: Criminal Law & Defence Representation Legal Services in Nepal | Pathivara Law Firm Itahari
+- **Page Title**: Criminal Law & Defence Representation Legal Services in Nepal | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: Experienced criminal defence advocates in Nepal. Legal consultation for police custody, remand hearings, bail applications, and court trials under Muluki Criminal Code 2074.
 - **Semantics Covered**: Substantive laws, procedural stages, evidence checklists, and court representation for Criminal Law & Defence Representation
 - **Semantic Relationship to Entity**: High-intent commercial service offering for Criminal Law & Defence Representation in Nepal
@@ -422,7 +422,7 @@
 ### 19. Family Law, Divorce & Matrimonial Dispute Representation in Nepal
 - **URL**: `/services/family-law/`
 - **Section**: Core
-- **Page Title**: Family Law, Divorce & Matrimonial Dispute Representation in Nepal | Pathivara Law Firm Itahari
+- **Page Title**: Family Law, Divorce & Matrimonial Dispute Representation in Nepal | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: Compassionate, discreet family and divorce lawyers in Nepal. Legal counsel for mutual consent divorce, contested proceedings, child custody, and spousal maintenance.
 - **Semantics Covered**: Substantive laws, procedural stages, evidence checklists, and court representation for Family Law & Divorce Representation
 - **Semantic Relationship to Entity**: High-intent commercial service offering for Family Law & Divorce Representation in Nepal
@@ -441,7 +441,7 @@
 ### 20. Property, Real Estate & Land Law Legal Services in Nepal
 - **URL**: `/services/property-land-law/`
 - **Section**: Core
-- **Page Title**: Property, Real Estate & Land Law Legal Services in Nepal | Pathivara Law Firm Itahari
+- **Page Title**: Property, Real Estate & Land Law Legal Services in Nepal | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: Trusted property and real estate lawyers in Nepal. Title deed verification (Lalpurja), Malpot transfer representation, partition (Anshabanda) disputes, and land litigation.
 - **Semantics Covered**: Substantive laws, procedural stages, evidence checklists, and court representation for Property & Land Law Representation
 - **Semantic Relationship to Entity**: High-intent commercial service offering for Property & Land Law Representation in Nepal
@@ -460,7 +460,7 @@
 ### 21. Corporate, Business & Commercial Legal Advisory in Nepal
 - **URL**: `/services/corporate-business-law/`
 - **Section**: Core
-- **Page Title**: Corporate, Business & Commercial Legal Advisory in Nepal | Pathivara Law Firm Itahari
+- **Page Title**: Corporate, Business & Commercial Legal Advisory in Nepal | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: Full-service corporate law firm in Nepal. Company incorporation, OCR compliance, shareholder agreements, foreign investment advisory, and commercial litigation.
 - **Semantics Covered**: Substantive laws, procedural stages, evidence checklists, and court representation for Corporate & Business Law Advisory
 - **Semantic Relationship to Entity**: High-intent commercial service offering for Corporate & Business Law Advisory in Nepal
@@ -479,7 +479,7 @@
 ### 22. Contract Drafting, Legal Review & Dispute Advisory in Nepal
 - **URL**: `/services/contract-law/`
 - **Section**: Core
-- **Page Title**: Contract Drafting, Legal Review & Dispute Advisory in Nepal | Pathivara Law Firm Itahari
+- **Page Title**: Contract Drafting, Legal Review & Dispute Advisory in Nepal | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: Protect your interests with expert contract drafting and legal review in Nepal. Commercial agreements, employment contracts, leases, and breach enforcement.
 - **Semantics Covered**: Substantive laws, procedural stages, evidence checklists, and court representation for Contract Drafting & Agreement Review
 - **Semantic Relationship to Entity**: High-intent commercial service offering for Contract Drafting & Agreement Review in Nepal
@@ -498,7 +498,7 @@
 ### 23. Inheritance, Succession & Ancestral Estate Legal Services in Nepal
 - **URL**: `/services/inheritance-succession/`
 - **Section**: Core
-- **Page Title**: Inheritance, Succession & Ancestral Estate Legal Services in Nepal | Pathivara Law Firm Itahari
+- **Page Title**: Inheritance, Succession & Ancestral Estate Legal Services in Nepal | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: Specialized legal representation for inheritance disputes, succession rights, ancestral partition (Anshabanda), and Bakaspatra under Muluki Civil Code 2074.
 - **Semantics Covered**: Substantive laws, procedural stages, evidence checklists, and court representation for Inheritance & Succession Law
 - **Semantic Relationship to Entity**: High-intent commercial service offering for Inheritance & Succession Law in Nepal
@@ -517,7 +517,7 @@
 ### 24. Labour & Employment Law Legal Advisory & Representation in Nepal
 - **URL**: `/services/labour-employment-law/`
 - **Section**: Core
-- **Page Title**: Labour & Employment Law Legal Advisory & Representation in Nepal | Pathivara Law Firm Itahari
+- **Page Title**: Labour & Employment Law Legal Advisory & Representation in Nepal | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: Comprehensive employment and labour law services in Nepal. Labour Act 2074 compliance, employment dispute defense, termination counseling, and Labour Court representation.
 - **Semantics Covered**: Substantive laws, procedural stages, evidence checklists, and court representation for Labour & Employment Law Representation
 - **Semantic Relationship to Entity**: High-intent commercial service offering for Labour & Employment Law Representation in Nepal
@@ -536,7 +536,7 @@
 ### 25. Banking, Financial Dispute & Cheque Dishonor Legal Representation in Nepal
 - **URL**: `/services/banking-financial-law/`
 - **Section**: Core
-- **Page Title**: Banking, Financial Dispute & Cheque Dishonor Legal Representation in Nepal | Pathivara Law Firm Itahari
+- **Page Title**: Banking, Financial Dispute & Cheque Dishonor Legal Representation in Nepal | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: Legal counsel for banking disputes, cheque dishonor cases under Banking Offence Act 2064, loan recovery defense, and Debt Recovery Tribunal representation in Nepal.
 - **Semantics Covered**: Substantive laws, procedural stages, evidence checklists, and court representation for Banking & Financial Dispute Representation
 - **Semantic Relationship to Entity**: High-intent commercial service offering for Banking & Financial Dispute Representation in Nepal
@@ -555,7 +555,7 @@
 ### 26. Mediation, Arbitration & Alternative Dispute Resolution (ADR) in Nepal
 - **URL**: `/services/mediation-dispute-resolution/`
 - **Section**: Core
-- **Page Title**: Mediation, Arbitration & Alternative Dispute Resolution (ADR) in Nepal | Pathivara Law Firm Itahari
+- **Page Title**: Mediation, Arbitration & Alternative Dispute Resolution (ADR) in Nepal | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: Cost-effective, confidential mediation and arbitration representation in Nepal. Resolve commercial, property, and family disputes out of court under Mediation Act 2068.
 - **Semantics Covered**: Substantive laws, procedural stages, evidence checklists, and court representation for Mediation & Alternative Dispute Resolution (ADR)
 - **Semantic Relationship to Entity**: High-intent commercial service offering for Mediation & Alternative Dispute Resolution (ADR) in Nepal
@@ -574,13 +574,13 @@
 ### 27. What is a Civil Case under Nepalese Law? Definition, Legal Scope & Remedies
 - **URL**: `/legal-resources/what-is-a-civil-case-nepal/`
 - **Section**: Outer
-- **Page Title**: What is a Civil Case under Nepalese Law? Definition, Legal Scope & Remedies | Pathivara Law Firm Itahari
+- **Page Title**: What is a Civil Case under Nepalese Law? Definition, Legal Scope & Remedies | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: Understand what constitutes a civil case (Dewani Mudda) under Nepal Muluki Civil Code 2074. Learn the differences between civil suits and criminal complaints.
 - **Semantics Covered**: Educational concepts for What is a Civil Case under Nepalese Law?, statutory basis under Nepalese law, procedural rights and liabilities
 - **Semantic Relationship to Entity**: Educational supporting article directing users to /services/civil-litigation/
 - **Query Template**: `what is a civil case under nepalese law? / nepalese law / legal guide`
 - **Primary Keyword**: What is a Civil Case under Nepalese Law?
-- **Secondary Keywords**: Civil Litigation Nepal, legal guide Kathmandu, Nepalese statutory procedure
+- **Secondary Keywords**: Civil Litigation Nepal, legal guide Sunsari, Nepalese statutory procedure
 - **Search Intent**: Informational
 - **User Journey Stage**: Awareness / Consideration
 - **Important Attributes**: Statutory Citations, Step-by-Step Practical Guidance, Exception Caveats, Contextual Links to Parent Service
@@ -593,13 +593,13 @@
 ### 28. Stages of a Civil Lawsuit in Nepal: From Plaint Filing to Decree Execution
 - **URL**: `/legal-resources/stages-of-civil-lawsuit-nepal/`
 - **Section**: Outer
-- **Page Title**: Stages of a Civil Lawsuit in Nepal: From Plaint Filing to Decree Execution | Pathivara Law Firm Itahari
+- **Page Title**: Stages of a Civil Lawsuit in Nepal: From Plaint Filing to Decree Execution | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: A step-by-step legal guide detailing the six stages of a civil lawsuit under the Muluki Civil Procedure Code 2074 in District Courts and High Courts of Nepal.
 - **Semantics Covered**: Educational concepts for Stages of a Civil Lawsuit in District and High Courts of Nepal, statutory basis under Nepalese law, procedural rights and liabilities
 - **Semantic Relationship to Entity**: Educational supporting article directing users to /services/civil-litigation/
 - **Query Template**: `stages of a civil lawsuit in district and high courts of nepal / nepalese law / legal guide`
 - **Primary Keyword**: Stages of a Civil Lawsuit in District and High Courts of Nepal
-- **Secondary Keywords**: Civil Litigation Nepal, legal guide Kathmandu, Nepalese statutory procedure
+- **Secondary Keywords**: Civil Litigation Nepal, legal guide Sunsari, Nepalese statutory procedure
 - **Search Intent**: Informational
 - **User Journey Stage**: Awareness / Consideration
 - **Important Attributes**: Statutory Citations, Step-by-Step Practical Guidance, Exception Caveats, Contextual Links to Parent Service
@@ -612,13 +612,13 @@
 ### 29. Essential Documents to Prepare Before Consulting a Civil Lawyer in Nepal
 - **URL**: `/legal-resources/documents-to-prepare-civil-lawyer-nepal/`
 - **Section**: Outer
-- **Page Title**: Essential Documents to Prepare Before Consulting a Civil Lawyer in Nepal | Pathivara Law Firm Itahari
+- **Page Title**: Essential Documents to Prepare Before Consulting a Civil Lawyer in Nepal | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: A practical document checklist for clients meeting a civil lawyer in Nepal. How to organize evidence, contracts, title deeds, and communication records.
 - **Semantics Covered**: Educational concepts for Key Documents to Prepare Before Consulting a Civil Lawyer in Nepal, statutory basis under Nepalese law, procedural rights and liabilities
 - **Semantic Relationship to Entity**: Educational supporting article directing users to /services/civil-litigation/
 - **Query Template**: `key documents to prepare before consulting a civil lawyer in nepal / nepalese law / legal guide`
 - **Primary Keyword**: Key Documents to Prepare Before Consulting a Civil Lawyer in Nepal
-- **Secondary Keywords**: Civil Litigation Nepal, legal guide Kathmandu, Nepalese statutory procedure
+- **Secondary Keywords**: Civil Litigation Nepal, legal guide Sunsari, Nepalese statutory procedure
 - **Search Intent**: Informational
 - **User Journey Stage**: Awareness / Consideration
 - **Important Attributes**: Statutory Citations, Step-by-Step Practical Guidance, Exception Caveats, Contextual Links to Parent Service
@@ -631,13 +631,13 @@
 ### 30. Mediation vs. Civil Litigation in Nepal: Which Dispute Path Should You Choose?
 - **URL**: `/legal-resources/mediation-vs-civil-litigation-nepal/`
 - **Section**: Outer
-- **Page Title**: Mediation vs. Civil Litigation in Nepal: Which Dispute Path Should You Choose? | Pathivara Law Firm Itahari
+- **Page Title**: Mediation vs. Civil Litigation in Nepal: Which Dispute Path Should You Choose? | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: Compare court litigation with alternative mediation in Nepal under the Mediation Act 2068. Analyze speed, confidentiality, costs, and enforceability.
 - **Semantics Covered**: Educational concepts for Mediation vs. Civil Litigation in Nepal: Key Differences and Benefits, statutory basis under Nepalese law, procedural rights and liabilities
 - **Semantic Relationship to Entity**: Educational supporting article directing users to /services/civil-litigation/
 - **Query Template**: `mediation vs. civil litigation in nepal: key differences and benefits / nepalese law / legal guide`
 - **Primary Keyword**: Mediation vs. Civil Litigation in Nepal: Key Differences and Benefits
-- **Secondary Keywords**: Civil Litigation Nepal, legal guide Kathmandu, Nepalese statutory procedure
+- **Secondary Keywords**: Civil Litigation Nepal, legal guide Sunsari, Nepalese statutory procedure
 - **Search Intent**: Informational
 - **User Journey Stage**: Awareness / Consideration
 - **Important Attributes**: Statutory Citations, Step-by-Step Practical Guidance, Exception Caveats, Contextual Links to Parent Service
@@ -650,13 +650,13 @@
 ### 31. What Factors Affect the Time and Cost of a Civil Dispute in Nepal?
 - **URL**: `/legal-resources/factors-affecting-civil-court-timeline-cost-nepal/`
 - **Section**: Outer
-- **Page Title**: What Factors Affect the Time and Cost of a Civil Dispute in Nepal? | Pathivara Law Firm Itahari
+- **Page Title**: What Factors Affect the Time and Cost of a Civil Dispute in Nepal? | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: Discover what determines the duration and cost of civil litigation in Nepal. Insights on court fees, expert commissions, appeals, and delay mitigation.
 - **Semantics Covered**: Educational concepts for Factors Influencing Court Timeline and Cost of Civil Disputes in Nepal, statutory basis under Nepalese law, procedural rights and liabilities
 - **Semantic Relationship to Entity**: Educational supporting article directing users to /services/civil-litigation/
 - **Query Template**: `factors influencing court timeline and cost of civil disputes in nepal / nepalese law / legal guide`
 - **Primary Keyword**: Factors Influencing Court Timeline and Cost of Civil Disputes in Nepal
-- **Secondary Keywords**: Civil Litigation Nepal, legal guide Kathmandu, Nepalese statutory procedure
+- **Secondary Keywords**: Civil Litigation Nepal, legal guide Sunsari, Nepalese statutory procedure
 - **Search Intent**: Informational
 - **User Journey Stage**: Awareness / Consideration
 - **Important Attributes**: Statutory Citations, Step-by-Step Practical Guidance, Exception Caveats, Contextual Links to Parent Service
@@ -669,13 +669,13 @@
 ### 32. Injunctions under Nepalese Civil Procedure: Protecting Your Rights During Trial
 - **URL**: `/legal-resources/injunctions-under-nepal-civil-procedure/`
 - **Section**: Outer
-- **Page Title**: Injunctions under Nepalese Civil Procedure: Protecting Your Rights During Trial | Pathivara Law Firm Itahari
+- **Page Title**: Injunctions under Nepalese Civil Procedure: Protecting Your Rights During Trial | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: Learn how interim and permanent injunctions (Nishedhajna / Antarim Aadesh) work in Nepal under the Muluki Civil Procedure Code 2074. Grounds, tests, and enforcement.
 - **Semantics Covered**: Educational concepts for Injunctions under Nepalese Civil Procedure: Types, Grounds, and Procedure, statutory basis under Nepalese law, procedural rights and liabilities
 - **Semantic Relationship to Entity**: Educational supporting article directing users to /services/civil-litigation/
 - **Query Template**: `injunctions under nepalese civil procedure: types, grounds, and procedure / nepalese law / legal guide`
 - **Primary Keyword**: Injunctions under Nepalese Civil Procedure: Types, Grounds, and Procedure
-- **Secondary Keywords**: Civil Litigation Nepal, legal guide Kathmandu, Nepalese statutory procedure
+- **Secondary Keywords**: Civil Litigation Nepal, legal guide Sunsari, Nepalese statutory procedure
 - **Search Intent**: Informational
 - **User Journey Stage**: Awareness / Consideration
 - **Important Attributes**: Statutory Citations, Step-by-Step Practical Guidance, Exception Caveats, Contextual Links to Parent Service
@@ -688,13 +688,13 @@
 ### 33. What to Know When Contacted by Nepal Police: Your Constitutional Rights Explained
 - **URL**: `/legal-resources/what-to-know-when-contacted-by-nepal-police/`
 - **Section**: Outer
-- **Page Title**: What to Know When Contacted by Nepal Police: Your Constitutional Rights Explained | Pathivara Law Firm Itahari
+- **Page Title**: What to Know When Contacted by Nepal Police: Your Constitutional Rights Explained | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: Know your legal rights under Article 20 of the Constitution of Nepal when approached, questioned, or summoned by the Nepal Police. Critical legal steps and advice.
 - **Semantics Covered**: Educational concepts for What to Know When Contacted by Nepal Police: Essential Rights and Legal Steps, statutory basis under Nepalese law, procedural rights and liabilities
 - **Semantic Relationship to Entity**: Educational supporting article directing users to /services/criminal-law/
 - **Query Template**: `what to know when contacted by nepal police: essential rights and legal steps / nepalese law / legal guide`
 - **Primary Keyword**: What to Know When Contacted by Nepal Police: Essential Rights and Legal Steps
-- **Secondary Keywords**: Criminal Law Nepal, legal guide Kathmandu, Nepalese statutory procedure
+- **Secondary Keywords**: Criminal Law Nepal, legal guide Sunsari, Nepalese statutory procedure
 - **Search Intent**: Informational
 - **User Journey Stage**: Awareness / Consideration
 - **Important Attributes**: Statutory Citations, Step-by-Step Practical Guidance, Exception Caveats, Contextual Links to Parent Service
@@ -707,13 +707,13 @@
 ### 34. Arrest, Detention, and Judicial Remand (Thap Myad) in Nepalese Criminal Law
 - **URL**: `/legal-resources/arrest-detention-remand-nepal-criminal-code/`
 - **Section**: Outer
-- **Page Title**: Arrest, Detention, and Judicial Remand (Thap Myad) in Nepalese Criminal Law | Pathivara Law Firm Itahari
+- **Page Title**: Arrest, Detention, and Judicial Remand (Thap Myad) in Nepalese Criminal Law | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: A comprehensive legal guide on police arrest procedures, 24-hour detention limits, and judicial remand extension (Thap Myad) in Nepal District Courts.
 - **Semantics Covered**: Educational concepts for Arrest, Detention, and Judicial Remand under the National Criminal Procedure Code 2074, statutory basis under Nepalese law, procedural rights and liabilities
 - **Semantic Relationship to Entity**: Educational supporting article directing users to /services/criminal-law/
 - **Query Template**: `arrest, detention, and judicial remand under the national criminal procedure code 2074 / nepalese law / legal guide`
 - **Primary Keyword**: Arrest, Detention, and Judicial Remand under the National Criminal Procedure Code 2074
-- **Secondary Keywords**: Criminal Law Nepal, legal guide Kathmandu, Nepalese statutory procedure
+- **Secondary Keywords**: Criminal Law Nepal, legal guide Sunsari, Nepalese statutory procedure
 - **Search Intent**: Informational
 - **User Journey Stage**: Awareness / Consideration
 - **Important Attributes**: Statutory Citations, Step-by-Step Practical Guidance, Exception Caveats, Contextual Links to Parent Service
@@ -726,13 +726,13 @@
 ### 35. Bail Eligibility, Hearings, and Procedures (Thunseka) in Nepal Courts
 - **URL**: `/legal-resources/bail-eligibility-procedure-nepal-courts/`
 - **Section**: Outer
-- **Page Title**: Bail Eligibility, Hearings, and Procedures (Thunseka) in Nepal Courts | Pathivara Law Firm Itahari
+- **Page Title**: Bail Eligibility, Hearings, and Procedures (Thunseka) in Nepal Courts | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: How bail hearings (Thunseka) work under the Muluki Criminal Procedure Code 2074 in Nepal. Understand Sections 67, 68, cash bail, bank guarantee, and appeal.
 - **Semantics Covered**: Educational concepts for Bail Eligibility, Hearings, and Procedures in Nepal Courts, statutory basis under Nepalese law, procedural rights and liabilities
 - **Semantic Relationship to Entity**: Educational supporting article directing users to /services/criminal-law/
 - **Query Template**: `bail eligibility, hearings, and procedures in nepal courts / nepalese law / legal guide`
 - **Primary Keyword**: Bail Eligibility, Hearings, and Procedures in Nepal Courts
-- **Secondary Keywords**: Criminal Law Nepal, legal guide Kathmandu, Nepalese statutory procedure
+- **Secondary Keywords**: Criminal Law Nepal, legal guide Sunsari, Nepalese statutory procedure
 - **Search Intent**: Informational
 - **User Journey Stage**: Awareness / Consideration
 - **Important Attributes**: Statutory Citations, Step-by-Step Practical Guidance, Exception Caveats, Contextual Links to Parent Service
@@ -745,13 +745,13 @@
 ### 36. Fundamental Rights of an Accused Person under the Constitution of Nepal
 - **URL**: `/legal-resources/rights-of-accused-person-constitution-nepal/`
 - **Section**: Outer
-- **Page Title**: Fundamental Rights of an Accused Person under the Constitution of Nepal | Pathivara Law Firm Itahari
+- **Page Title**: Fundamental Rights of an Accused Person under the Constitution of Nepal | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: A legal review of the 10 fundamental rights guaranteed to an accused person under Article 20 of the Constitution of Nepal and the Criminal Code 2074.
 - **Semantics Covered**: Educational concepts for Rights of an Accused Person under the Constitution and Criminal Code of Nepal, statutory basis under Nepalese law, procedural rights and liabilities
 - **Semantic Relationship to Entity**: Educational supporting article directing users to /services/criminal-law/
 - **Query Template**: `rights of an accused person under the constitution and criminal code of nepal / nepalese law / legal guide`
 - **Primary Keyword**: Rights of an Accused Person under the Constitution and Criminal Code of Nepal
-- **Secondary Keywords**: Criminal Law Nepal, legal guide Kathmandu, Nepalese statutory procedure
+- **Secondary Keywords**: Criminal Law Nepal, legal guide Sunsari, Nepalese statutory procedure
 - **Search Intent**: Informational
 - **User Journey Stage**: Awareness / Consideration
 - **Important Attributes**: Statutory Citations, Step-by-Step Practical Guidance, Exception Caveats, Contextual Links to Parent Service
@@ -764,13 +764,13 @@
 ### 37. Criminal Trial Procedures in Nepal: From Charge-Sheet (Abhiyog-patra) to Verdict
 - **URL**: `/legal-resources/criminal-court-proceedings-nepal-charge-sheet-to-verdict/`
 - **Section**: Outer
-- **Page Title**: Criminal Trial Procedures in Nepal: From Charge-Sheet (Abhiyog-patra) to Verdict | Pathivara Law Firm Itahari
+- **Page Title**: Criminal Trial Procedures in Nepal: From Charge-Sheet (Abhiyog-patra) to Verdict | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: Step-by-step breakdown of criminal trials under the Muluki Criminal Procedure Code 2074. Charge-sheets, prosecution evidence, cross-examination, and sentencing.
 - **Semantics Covered**: Educational concepts for Criminal Court Trial Procedures in Nepal: From Charge-Sheet to Verdict, statutory basis under Nepalese law, procedural rights and liabilities
 - **Semantic Relationship to Entity**: Educational supporting article directing users to /services/criminal-law/
 - **Query Template**: `criminal court trial procedures in nepal: from charge-sheet to verdict / nepalese law / legal guide`
 - **Primary Keyword**: Criminal Court Trial Procedures in Nepal: From Charge-Sheet to Verdict
-- **Secondary Keywords**: Criminal Law Nepal, legal guide Kathmandu, Nepalese statutory procedure
+- **Secondary Keywords**: Criminal Law Nepal, legal guide Sunsari, Nepalese statutory procedure
 - **Search Intent**: Informational
 - **User Journey Stage**: Awareness / Consideration
 - **Important Attributes**: Statutory Citations, Step-by-Step Practical Guidance, Exception Caveats, Contextual Links to Parent Service
@@ -783,13 +783,13 @@
 ### 38. What Documents to Prepare When Consulting a Criminal Defence Lawyer in Nepal
 - **URL**: `/legal-resources/documents-evidence-consulting-criminal-lawyer-nepal/`
 - **Section**: Outer
-- **Page Title**: What Documents to Prepare When Consulting a Criminal Defence Lawyer in Nepal | Pathivara Law Firm Itahari
+- **Page Title**: What Documents to Prepare When Consulting a Criminal Defence Lawyer in Nepal | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: Checklist of essential documents and information to bring when consulting a criminal defence advocate in Nepal. FIR, arrest memos, alibi records, and bail surety.
 - **Semantics Covered**: Educational concepts for Necessary Documents and Evidence for Criminal Legal Consultations in Nepal, statutory basis under Nepalese law, procedural rights and liabilities
 - **Semantic Relationship to Entity**: Educational supporting article directing users to /services/criminal-law/
 - **Query Template**: `necessary documents and evidence for criminal legal consultations in nepal / nepalese law / legal guide`
 - **Primary Keyword**: Necessary Documents and Evidence for Criminal Legal Consultations in Nepal
-- **Secondary Keywords**: Criminal Law Nepal, legal guide Kathmandu, Nepalese statutory procedure
+- **Secondary Keywords**: Criminal Law Nepal, legal guide Sunsari, Nepalese statutory procedure
 - **Search Intent**: Informational
 - **User Journey Stage**: Awareness / Consideration
 - **Important Attributes**: Statutory Citations, Step-by-Step Practical Guidance, Exception Caveats, Contextual Links to Parent Service
@@ -802,13 +802,13 @@
 ### 39. Divorce Procedure and Statutory Grounds in Nepal: A Complete Guide
 - **URL**: `/legal-resources/divorce-procedure-muluki-civil-code-nepal/`
 - **Section**: Outer
-- **Page Title**: Divorce Procedure and Statutory Grounds in Nepal: A Complete Guide | Pathivara Law Firm Itahari
+- **Page Title**: Divorce Procedure and Statutory Grounds in Nepal: A Complete Guide | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: Learn the divorce process, statutory grounds for husband and wife, property division, and mediation cooling periods under Muluki Civil Code 2074 in Nepal.
 - **Semantics Covered**: Educational concepts for Divorce Procedure and Legal Grounds in Nepal (Muluki Civil Code 2074), statutory basis under Nepalese law, procedural rights and liabilities
 - **Semantic Relationship to Entity**: Educational supporting article directing users to /services/family-law/
 - **Query Template**: `divorce procedure and legal grounds in nepal (muluki civil code 2074) / nepalese law / legal guide`
 - **Primary Keyword**: Divorce Procedure and Legal Grounds in Nepal (Muluki Civil Code 2074)
-- **Secondary Keywords**: Family Law Nepal, legal guide Kathmandu, Nepalese statutory procedure
+- **Secondary Keywords**: Family Law Nepal, legal guide Sunsari, Nepalese statutory procedure
 - **Search Intent**: Informational
 - **User Journey Stage**: Awareness / Consideration
 - **Important Attributes**: Statutory Citations, Step-by-Step Practical Guidance, Exception Caveats, Contextual Links to Parent Service
@@ -821,13 +821,13 @@
 ### 40. Mutual Consent vs. Contested Divorce in Nepal: A Procedural Comparison
 - **URL**: `/legal-resources/mutual-consent-vs-contested-divorce-nepal/`
 - **Section**: Outer
-- **Page Title**: Mutual Consent vs. Contested Divorce in Nepal: A Procedural Comparison | Pathivara Law Firm Itahari
+- **Page Title**: Mutual Consent vs. Contested Divorce in Nepal: A Procedural Comparison | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: Compare mutual consent divorce (expedited 2-5 days) with contested divorce (1+ year) in Nepal courts. Analyze costs, property division, and emotional impact.
 - **Semantics Covered**: Educational concepts for Mutual Consent vs. Contested Divorce in Nepal: Timeline and Procedure, statutory basis under Nepalese law, procedural rights and liabilities
 - **Semantic Relationship to Entity**: Educational supporting article directing users to /services/family-law/
 - **Query Template**: `mutual consent vs. contested divorce in nepal: timeline and procedure / nepalese law / legal guide`
 - **Primary Keyword**: Mutual Consent vs. Contested Divorce in Nepal: Timeline and Procedure
-- **Secondary Keywords**: Family Law Nepal, legal guide Kathmandu, Nepalese statutory procedure
+- **Secondary Keywords**: Family Law Nepal, legal guide Sunsari, Nepalese statutory procedure
 - **Search Intent**: Informational
 - **User Journey Stage**: Awareness / Consideration
 - **Important Attributes**: Statutory Citations, Step-by-Step Practical Guidance, Exception Caveats, Contextual Links to Parent Service
@@ -840,13 +840,13 @@
 ### 41. Child Custody and Parental Guardianship under Nepalese Family Law
 - **URL**: `/legal-resources/child-custody-guardianship-laws-nepal/`
 - **Section**: Outer
-- **Page Title**: Child Custody and Parental Guardianship under Nepalese Family Law | Pathivara Law Firm Itahari
+- **Page Title**: Child Custody and Parental Guardianship under Nepalese Family Law | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: Explore how child custody and parental guardianship are determined in Nepal under Muluki Civil Code 2074 and Children Act 2075. Best interests of the child.
 - **Semantics Covered**: Educational concepts for Child Custody and Parental Guardianship Principles in Nepal, statutory basis under Nepalese law, procedural rights and liabilities
 - **Semantic Relationship to Entity**: Educational supporting article directing users to /services/family-law/
 - **Query Template**: `child custody and parental guardianship principles in nepal / nepalese law / legal guide`
 - **Primary Keyword**: Child Custody and Parental Guardianship Principles in Nepal
-- **Secondary Keywords**: Family Law Nepal, legal guide Kathmandu, Nepalese statutory procedure
+- **Secondary Keywords**: Family Law Nepal, legal guide Sunsari, Nepalese statutory procedure
 - **Search Intent**: Informational
 - **User Journey Stage**: Awareness / Consideration
 - **Important Attributes**: Statutory Citations, Step-by-Step Practical Guidance, Exception Caveats, Contextual Links to Parent Service
@@ -859,13 +859,13 @@
 ### 42. Checklist of Essential Documents for Filing Divorce in Nepal Courts
 - **URL**: `/legal-resources/documents-required-for-divorce-nepal/`
 - **Section**: Outer
-- **Page Title**: Checklist of Essential Documents for Filing Divorce in Nepal Courts | Pathivara Law Firm Itahari
+- **Page Title**: Checklist of Essential Documents for Filing Divorce in Nepal Courts | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: A complete checklist of documents required to file mutual consent or contested divorce in Nepal District Courts under Muluki Civil Code 2074.
 - **Semantics Covered**: Educational concepts for Essential Documents Required for Initiating Divorce in Nepal, statutory basis under Nepalese law, procedural rights and liabilities
 - **Semantic Relationship to Entity**: Educational supporting article directing users to /services/family-law/
 - **Query Template**: `essential documents required for initiating divorce in nepal / nepalese law / legal guide`
 - **Primary Keyword**: Essential Documents Required for Initiating Divorce in Nepal
-- **Secondary Keywords**: Family Law Nepal, legal guide Kathmandu, Nepalese statutory procedure
+- **Secondary Keywords**: Family Law Nepal, legal guide Sunsari, Nepalese statutory procedure
 - **Search Intent**: Informational
 - **User Journey Stage**: Awareness / Consideration
 - **Important Attributes**: Statutory Citations, Step-by-Step Practical Guidance, Exception Caveats, Contextual Links to Parent Service
@@ -878,13 +878,13 @@
 ### 43. Matrimonial Property Division (Ansha) and Partition Rights on Divorce in Nepal
 - **URL**: `/legal-resources/matrimonial-property-anshabanda-divorce-nepal/`
 - **Section**: Outer
-- **Page Title**: Matrimonial Property Division (Ansha) and Partition Rights on Divorce in Nepal | Pathivara Law Firm Itahari
+- **Page Title**: Matrimonial Property Division (Ansha) and Partition Rights on Divorce in Nepal | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: How property partition (Anshabanda) and alimony work during divorce in Nepal under Section 99 of Muluki Civil Code 2074. Wife rights and asset valuation.
 - **Semantics Covered**: Educational concepts for Matrimonial Property Division (Ansha) and Partition Rights on Divorce in Nepal, statutory basis under Nepalese law, procedural rights and liabilities
 - **Semantic Relationship to Entity**: Educational supporting article directing users to /services/family-law/
 - **Query Template**: `matrimonial property division (ansha) and partition rights on divorce in nepal / nepalese law / legal guide`
 - **Primary Keyword**: Matrimonial Property Division (Ansha) and Partition Rights on Divorce in Nepal
-- **Secondary Keywords**: Family Law Nepal, legal guide Kathmandu, Nepalese statutory procedure
+- **Secondary Keywords**: Family Law Nepal, legal guide Sunsari, Nepalese statutory procedure
 - **Search Intent**: Informational
 - **User Journey Stage**: Awareness / Consideration
 - **Important Attributes**: Statutory Citations, Step-by-Step Practical Guidance, Exception Caveats, Contextual Links to Parent Service
@@ -897,13 +897,13 @@
 ### 44. Spousal and Child Maintenance (Kharacha) under Nepalese Law
 - **URL**: `/legal-resources/spousal-child-maintenance-laws-nepal/`
 - **Section**: Outer
-- **Page Title**: Spousal and Child Maintenance (Kharacha) under Nepalese Law | Pathivara Law Firm Itahari
+- **Page Title**: Spousal and Child Maintenance (Kharacha) under Nepalese Law | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: How courts determine spousal and child maintenance (Kharacha) in Nepal under Muluki Civil Code 2074. Interim maintenance, calculations, and enforcement.
 - **Semantics Covered**: Educational concepts for Spousal and Child Maintenance (Kharacha): Determination and Legal Rights in Nepal, statutory basis under Nepalese law, procedural rights and liabilities
 - **Semantic Relationship to Entity**: Educational supporting article directing users to /services/family-law/
 - **Query Template**: `spousal and child maintenance (kharacha): determination and legal rights in nepal / nepalese law / legal guide`
 - **Primary Keyword**: Spousal and Child Maintenance (Kharacha): Determination and Legal Rights in Nepal
-- **Secondary Keywords**: Family Law Nepal, legal guide Kathmandu, Nepalese statutory procedure
+- **Secondary Keywords**: Family Law Nepal, legal guide Sunsari, Nepalese statutory procedure
 - **Search Intent**: Informational
 - **User Journey Stage**: Awareness / Consideration
 - **Important Attributes**: Statutory Citations, Step-by-Step Practical Guidance, Exception Caveats, Contextual Links to Parent Service
@@ -916,13 +916,13 @@
 ### 45. How to Verify Land Ownership and Title Records (Lalpurja) in Nepal
 - **URL**: `/legal-resources/how-to-check-land-ownership-lalpurja-nepal/`
 - **Section**: Outer
-- **Page Title**: How to Verify Land Ownership and Title Records (Lalpurja) in Nepal | Pathivara Law Firm Itahari
+- **Page Title**: How to Verify Land Ownership and Title Records (Lalpurja) in Nepal | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: Step-by-step legal guide on verifying real estate ownership, Lalpurja authenticity, Malpot Shrestha registers, and Rokka encumbrance searches in Nepal.
 - **Semantics Covered**: Educational concepts for How to Verify Land Ownership and Title Records (Lalpurja) in Nepal, statutory basis under Nepalese law, procedural rights and liabilities
 - **Semantic Relationship to Entity**: Educational supporting article directing users to /services/property-land-law/
 - **Query Template**: `how to verify land ownership and title records (lalpurja) in nepal / nepalese law / legal guide`
 - **Primary Keyword**: How to Verify Land Ownership and Title Records (Lalpurja) in Nepal
-- **Secondary Keywords**: Property & Land Law Nepal, legal guide Kathmandu, Nepalese statutory procedure
+- **Secondary Keywords**: Property & Land Law Nepal, legal guide Sunsari, Nepalese statutory procedure
 - **Search Intent**: Informational
 - **User Journey Stage**: Awareness / Consideration
 - **Important Attributes**: Statutory Citations, Step-by-Step Practical Guidance, Exception Caveats, Contextual Links to Parent Service
@@ -935,13 +935,13 @@
 ### 46. Legal Due Diligence Checklist for Buying Land and Property in Nepal
 - **URL**: `/legal-resources/legal-due-diligence-buying-land-nepal/`
 - **Section**: Outer
-- **Page Title**: Legal Due Diligence Checklist for Buying Land and Property in Nepal | Pathivara Law Firm Itahari
+- **Page Title**: Legal Due Diligence Checklist for Buying Land and Property in Nepal | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: Protect your property investment with our 10-point legal due diligence checklist for purchasing land, houses, and commercial property in Nepal.
 - **Semantics Covered**: Educational concepts for Critical Legal Due Diligence Checklist for Buying Real Estate in Nepal, statutory basis under Nepalese law, procedural rights and liabilities
 - **Semantic Relationship to Entity**: Educational supporting article directing users to /services/property-land-law/
 - **Query Template**: `critical legal due diligence checklist for buying real estate in nepal / nepalese law / legal guide`
 - **Primary Keyword**: Critical Legal Due Diligence Checklist for Buying Real Estate in Nepal
-- **Secondary Keywords**: Property & Land Law Nepal, legal guide Kathmandu, Nepalese statutory procedure
+- **Secondary Keywords**: Property & Land Law Nepal, legal guide Sunsari, Nepalese statutory procedure
 - **Search Intent**: Informational
 - **User Journey Stage**: Awareness / Consideration
 - **Important Attributes**: Statutory Citations, Step-by-Step Practical Guidance, Exception Caveats, Contextual Links to Parent Service
@@ -954,13 +954,13 @@
 ### 47. Land Registration and Deed Transfer (Rajinama) in Nepal: Malpot Office Guide
 - **URL**: `/legal-resources/land-registration-malpot-deed-transfer-nepal/`
 - **Section**: Outer
-- **Page Title**: Land Registration and Deed Transfer (Rajinama) in Nepal: Malpot Office Guide | Pathivara Law Firm Itahari
+- **Page Title**: Land Registration and Deed Transfer (Rajinama) in Nepal: Malpot Office Guide | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: Complete guide to transferring land title at the Land Revenue Office (Malpot) in Nepal. Sale deed (Rajinama) drafting, government fees, and biometric registration.
 - **Semantics Covered**: Educational concepts for Official Land Registration, Deed Transfer (Rajinama), and Malpot Office Procedures, statutory basis under Nepalese law, procedural rights and liabilities
 - **Semantic Relationship to Entity**: Educational supporting article directing users to /services/property-land-law/
 - **Query Template**: `official land registration, deed transfer (rajinama), and malpot office procedures / nepalese law / legal guide`
 - **Primary Keyword**: Official Land Registration, Deed Transfer (Rajinama), and Malpot Office Procedures
-- **Secondary Keywords**: Property & Land Law Nepal, legal guide Kathmandu, Nepalese statutory procedure
+- **Secondary Keywords**: Property & Land Law Nepal, legal guide Sunsari, Nepalese statutory procedure
 - **Search Intent**: Informational
 - **User Journey Stage**: Awareness / Consideration
 - **Important Attributes**: Statutory Citations, Step-by-Step Practical Guidance, Exception Caveats, Contextual Links to Parent Service
@@ -973,13 +973,13 @@
 ### 48. Ancestral Property Partition (Anshabanda) in Nepal: Law, Rights, and Disputes
 - **URL**: `/legal-resources/property-partition-anshabanda-disputes-nepal/`
 - **Section**: Outer
-- **Page Title**: Ancestral Property Partition (Anshabanda) in Nepal: Law, Rights, and Disputes | Pathivara Law Firm Itahari
+- **Page Title**: Ancestral Property Partition (Anshabanda) in Nepal: Law, Rights, and Disputes | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: A legal guide on ancestral property partition (Anshabanda) in Nepal. Equal rights of daughters, concealing assets, partition deed drafting, and court lawsuits.
 - **Semantics Covered**: Educational concepts for Ancestral Property Partition (Anshabanda) and Common Disputes in Nepal, statutory basis under Nepalese law, procedural rights and liabilities
 - **Semantic Relationship to Entity**: Educational supporting article directing users to /services/property-land-law/
 - **Query Template**: `ancestral property partition (anshabanda) and common disputes in nepal / nepalese law / legal guide`
 - **Primary Keyword**: Ancestral Property Partition (Anshabanda) and Common Disputes in Nepal
-- **Secondary Keywords**: Property & Land Law Nepal, legal guide Kathmandu, Nepalese statutory procedure
+- **Secondary Keywords**: Property & Land Law Nepal, legal guide Sunsari, Nepalese statutory procedure
 - **Search Intent**: Informational
 - **User Journey Stage**: Awareness / Consideration
 - **Important Attributes**: Statutory Citations, Step-by-Step Practical Guidance, Exception Caveats, Contextual Links to Parent Service
@@ -992,13 +992,13 @@
 ### 49. Inheritance, Succession, and Bakaspatra (Gift Deeds) in Nepalese Land Law
 - **URL**: `/legal-resources/inheritance-bakaspatra-land-laws-nepal/`
 - **Section**: Outer
-- **Page Title**: Inheritance, Succession, and Bakaspatra (Gift Deeds) in Nepalese Land Law | Pathivara Law Firm Itahari
+- **Page Title**: Inheritance, Succession, and Bakaspatra (Gift Deeds) in Nepalese Land Law | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: Understand Bakaspatra (Gift Deeds) and inheritance (Apunstrali) under Muluki Civil Code 2074. Learn how gift deeds can be executed, challenged, and mutated.
 - **Semantics Covered**: Educational concepts for Inheritance and Bakaspatra (Gift Deed) Laws Governing Real Estate in Nepal, statutory basis under Nepalese law, procedural rights and liabilities
 - **Semantic Relationship to Entity**: Educational supporting article directing users to /services/property-land-law/
 - **Query Template**: `inheritance and bakaspatra (gift deed) laws governing real estate in nepal / nepalese law / legal guide`
 - **Primary Keyword**: Inheritance and Bakaspatra (Gift Deed) Laws Governing Real Estate in Nepal
-- **Secondary Keywords**: Property & Land Law Nepal, legal guide Kathmandu, Nepalese statutory procedure
+- **Secondary Keywords**: Property & Land Law Nepal, legal guide Sunsari, Nepalese statutory procedure
 - **Search Intent**: Informational
 - **User Journey Stage**: Awareness / Consideration
 - **Important Attributes**: Statutory Citations, Step-by-Step Practical Guidance, Exception Caveats, Contextual Links to Parent Service
@@ -1011,13 +1011,13 @@
 ### 50. Land Boundary Conflicts and Encroachment Remedies in Nepal
 - **URL**: `/legal-resources/land-boundary-encroachment-remedies-nepal/`
 - **Section**: Outer
-- **Page Title**: Land Boundary Conflicts and Encroachment Remedies in Nepal | Pathivara Law Firm Itahari
+- **Page Title**: Land Boundary Conflicts and Encroachment Remedies in Nepal | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: How to resolve land boundary conflicts, illegal encroachment, and easement disputes in Nepal. Municipal Judicial Committees and District Court remedies.
 - **Semantics Covered**: Educational concepts for Boundary Conflicts, Encroachment, and Remedies in Nepalese Courts, statutory basis under Nepalese law, procedural rights and liabilities
 - **Semantic Relationship to Entity**: Educational supporting article directing users to /services/property-land-law/
 - **Query Template**: `boundary conflicts, encroachment, and remedies in nepalese courts / nepalese law / legal guide`
 - **Primary Keyword**: Boundary Conflicts, Encroachment, and Remedies in Nepalese Courts
-- **Secondary Keywords**: Property & Land Law Nepal, legal guide Kathmandu, Nepalese statutory procedure
+- **Secondary Keywords**: Property & Land Law Nepal, legal guide Sunsari, Nepalese statutory procedure
 - **Search Intent**: Informational
 - **User Journey Stage**: Awareness / Consideration
 - **Important Attributes**: Statutory Citations, Step-by-Step Practical Guidance, Exception Caveats, Contextual Links to Parent Service
@@ -1030,13 +1030,13 @@
 ### 51. Step-by-Step Guide to Registering a Company at the OCR in Nepal
 - **URL**: `/legal-resources/steps-registering-company-ocr-nepal/`
 - **Section**: Outer
-- **Page Title**: Step-by-Step Guide to Registering a Company at the OCR in Nepal | Pathivara Law Firm Itahari
+- **Page Title**: Step-by-Step Guide to Registering a Company at the OCR in Nepal | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: A step-by-step corporate guide to incorporating a Private Limited Company at the Office of Company Registrar (OCR) in Nepal under Companies Act 2063.
 - **Semantics Covered**: Educational concepts for What are the General Steps for Registering a Company in Nepal?, statutory basis under Nepalese law, procedural rights and liabilities
 - **Semantic Relationship to Entity**: Educational supporting article directing users to /services/corporate-business-law/
 - **Query Template**: `what are the general steps for registering a company in nepal? / nepalese law / legal guide`
 - **Primary Keyword**: What are the General Steps for Registering a Company in Nepal?
-- **Secondary Keywords**: Corporate & Business Law Nepal, legal guide Kathmandu, Nepalese statutory procedure
+- **Secondary Keywords**: Corporate & Business Law Nepal, legal guide Sunsari, Nepalese statutory procedure
 - **Search Intent**: Informational
 - **User Journey Stage**: Awareness / Consideration
 - **Important Attributes**: Statutory Citations, Step-by-Step Practical Guidance, Exception Caveats, Contextual Links to Parent Service
@@ -1049,13 +1049,13 @@
 ### 52. Sole Proprietorship vs. Partnership vs. Private Limited Company in Nepal
 - **URL**: `/legal-resources/proprietorship-vs-partnership-vs-private-limited-nepal/`
 - **Section**: Outer
-- **Page Title**: Sole Proprietorship vs. Partnership vs. Private Limited Company in Nepal | Pathivara Law Firm Itahari
+- **Page Title**: Sole Proprietorship vs. Partnership vs. Private Limited Company in Nepal | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: Compare Sole Proprietorship, Partnership Firm, and Private Limited Company in Nepal. Analyze personal liability, taxation, registration, and scaling.
 - **Semantics Covered**: Educational concepts for What is the Difference Between a Private Firm, Partnership, and Company in Nepal?, statutory basis under Nepalese law, procedural rights and liabilities
 - **Semantic Relationship to Entity**: Educational supporting article directing users to /services/corporate-business-law/
 - **Query Template**: `what is the difference between a private firm, partnership, and company in nepal? / nepalese law / legal guide`
 - **Primary Keyword**: What is the Difference Between a Private Firm, Partnership, and Company in Nepal?
-- **Secondary Keywords**: Corporate & Business Law Nepal, legal guide Kathmandu, Nepalese statutory procedure
+- **Secondary Keywords**: Corporate & Business Law Nepal, legal guide Sunsari, Nepalese statutory procedure
 - **Search Intent**: Informational
 - **User Journey Stage**: Awareness / Consideration
 - **Important Attributes**: Statutory Citations, Step-by-Step Practical Guidance, Exception Caveats, Contextual Links to Parent Service
@@ -1068,13 +1068,13 @@
 ### 53. Essential Clauses Every Commercial Contract Must Contain under Nepalese Law
 - **URL**: `/legal-resources/essential-clauses-commercial-contracts-nepal/`
 - **Section**: Outer
-- **Page Title**: Essential Clauses Every Commercial Contract Must Contain under Nepalese Law | Pathivara Law Firm Itahari
+- **Page Title**: Essential Clauses Every Commercial Contract Must Contain under Nepalese Law | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: A legal masterclass on drafting commercial contracts in Nepal under Muluki Civil Code 2074. Indemnity, termination, limitation of liability, and ADR clauses.
 - **Semantics Covered**: Educational concepts for Why are Written Commercial Agreements Important, and What Should They Include?, statutory basis under Nepalese law, procedural rights and liabilities
 - **Semantic Relationship to Entity**: Educational supporting article directing users to /services/corporate-business-law/
 - **Query Template**: `why are written commercial agreements important, and what should they include? / nepalese law / legal guide`
 - **Primary Keyword**: Why are Written Commercial Agreements Important, and What Should They Include?
-- **Secondary Keywords**: Corporate & Business Law Nepal, legal guide Kathmandu, Nepalese statutory procedure
+- **Secondary Keywords**: Corporate & Business Law Nepal, legal guide Sunsari, Nepalese statutory procedure
 - **Search Intent**: Informational
 - **User Journey Stage**: Awareness / Consideration
 - **Important Attributes**: Statutory Citations, Step-by-Step Practical Guidance, Exception Caveats, Contextual Links to Parent Service
@@ -1087,13 +1087,13 @@
 ### 54. Key Legal Considerations in Contract Drafting and Execution in Nepal
 - **URL**: `/legal-resources/legal-considerations-contract-drafting-nepal/`
 - **Section**: Outer
-- **Page Title**: Key Legal Considerations in Contract Drafting and Execution in Nepal | Pathivara Law Firm Itahari
+- **Page Title**: Key Legal Considerations in Contract Drafting and Execution in Nepal | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: A legal guide on drafting enforceable contracts in Nepal under Muluki Civil Code 2074. Signing protocols, witness requirements, and void agreement traps.
 - **Semantics Covered**: Educational concepts for Key Legal Considerations in Contract Drafting and Execution in Nepal, statutory basis under Nepalese law, procedural rights and liabilities
 - **Semantic Relationship to Entity**: Educational supporting article directing users to /services/corporate-business-law/
 - **Query Template**: `key legal considerations in contract drafting and execution in nepal / nepalese law / legal guide`
 - **Primary Keyword**: Key Legal Considerations in Contract Drafting and Execution in Nepal
-- **Secondary Keywords**: Corporate & Business Law Nepal, legal guide Kathmandu, Nepalese statutory procedure
+- **Secondary Keywords**: Corporate & Business Law Nepal, legal guide Sunsari, Nepalese statutory procedure
 - **Search Intent**: Informational
 - **User Journey Stage**: Awareness / Consideration
 - **Important Attributes**: Statutory Citations, Step-by-Step Practical Guidance, Exception Caveats, Contextual Links to Parent Service
@@ -1106,13 +1106,13 @@
 ### 55. Fiduciary Duties and Statutory Liabilities of Directors under Companies Act 2063
 - **URL**: `/legal-resources/directors-duties-liabilities-companies-act-nepal/`
 - **Section**: Outer
-- **Page Title**: Fiduciary Duties and Statutory Liabilities of Directors under Companies Act 2063 | Pathivara Law Firm Itahari
+- **Page Title**: Fiduciary Duties and Statutory Liabilities of Directors under Companies Act 2063 | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: A legal analysis of corporate director duties, personal liabilities, conflict-of-interest disclosures, and governance rules under Nepal Companies Act 2063.
 - **Semantics Covered**: Educational concepts for What are the Basic Duties of Company Directors under Applicable Law in Nepal?, statutory basis under Nepalese law, procedural rights and liabilities
 - **Semantic Relationship to Entity**: Educational supporting article directing users to /services/corporate-business-law/
 - **Query Template**: `what are the basic duties of company directors under applicable law in nepal? / nepalese law / legal guide`
 - **Primary Keyword**: What are the Basic Duties of Company Directors under Applicable Law in Nepal?
-- **Secondary Keywords**: Corporate & Business Law Nepal, legal guide Kathmandu, Nepalese statutory procedure
+- **Secondary Keywords**: Corporate & Business Law Nepal, legal guide Sunsari, Nepalese statutory procedure
 - **Search Intent**: Informational
 - **User Journey Stage**: Awareness / Consideration
 - **Important Attributes**: Statutory Citations, Step-by-Step Practical Guidance, Exception Caveats, Contextual Links to Parent Service
@@ -1125,13 +1125,13 @@
 ### 56. Resolving Shareholder and Partnership Disputes in Nepal: Legal & ADR Options
 - **URL**: `/legal-resources/shareholder-partnership-dispute-resolution-nepal/`
 - **Section**: Outer
-- **Page Title**: Resolving Shareholder and Partnership Disputes in Nepal: Legal & ADR Options | Pathivara Law Firm Itahari
+- **Page Title**: Resolving Shareholder and Partnership Disputes in Nepal: Legal & ADR Options | PATHIVARA LAW FIRM SUNSARI
 - **Meta Description**: How to handle shareholder deadlocks, minority oppression petitions, and partnership fallout in Nepal under Companies Act 2063 and Partnership Act 2020.
 - **Semantics Covered**: Educational concepts for How Can Businesses Approach Shareholder or Partnership Disputes in Nepal?, statutory basis under Nepalese law, procedural rights and liabilities
 - **Semantic Relationship to Entity**: Educational supporting article directing users to /services/corporate-business-law/
 - **Query Template**: `how can businesses approach shareholder or partnership disputes in nepal? / nepalese law / legal guide`
 - **Primary Keyword**: How Can Businesses Approach Shareholder or Partnership Disputes in Nepal?
-- **Secondary Keywords**: Corporate & Business Law Nepal, legal guide Kathmandu, Nepalese statutory procedure
+- **Secondary Keywords**: Corporate & Business Law Nepal, legal guide Sunsari, Nepalese statutory procedure
 - **Search Intent**: Informational
 - **User Journey Stage**: Awareness / Consideration
 - **Important Attributes**: Statutory Citations, Step-by-Step Practical Guidance, Exception Caveats, Contextual Links to Parent Service

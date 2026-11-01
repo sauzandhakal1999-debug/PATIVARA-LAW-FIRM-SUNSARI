@@ -1,4 +1,4 @@
-# Page renderers for Pathivara Law Firm Itahari
+# Page renderers for PATHIVARA LAW FIRM SUNSARI
 import json
 from builder.templates import (
     get_base_html, render_header, render_footer, render_breadcrumbs,
@@ -7,16 +7,16 @@ from builder.templates import (
 )
 
 def render_home(config, services, articles, team, faqs):
-    firm_name = config.get("firm_name", "Pathivara Law Firm Itahari")
+    firm_name = config.get("firm_name", "PATHIVARA LAW FIRM SUNSARI")
     phone = config.get("contact", {}).get("telephone_display", "+977 (01) 4XXXXXX")
     tel_link = config.get("contact", {}).get("telephone", "+97714000000")
     primary_loc = config.get("locations", {}).get("primary", {})
     city = primary_loc.get("city", "Kathmandu")
     address = primary_loc.get("formatted_address", "Kathmandu, Nepal")
     hours = config.get("contact", {}).get("office_hours", "Sun–Fri 9:30 AM–5:30 PM")
-    site_url = config.get("site_url", "https://www.pathivaralawfirmitahari.com")
+    site_url = config.get("site_url", "https://www.pathivaralawfirmsunsari.com")
 
-    title = "Specialized Legal Advocacy & Trusted Advisory in Nepal | Pathivara Law Firm Itahari"
+    title = "Specialized Legal Advocacy & Trusted Advisory in Nepal | PATHIVARA LAW FIRM SUNSARI"
     description = "Leading law firm in Kathmandu, Nepal providing specialized court representation, commercial advisory, property due diligence, and dispute resolution under Nepalese law."
 
     schema = {
@@ -29,7 +29,7 @@ def render_home(config, services, articles, team, faqs):
                 "description": description,
                 "url": site_url,
                 "telephone": config.get("contact", {}).get("telephone", "+97714000000"),
-                "email": config.get("contact", {}).get("email", "info@pathivaralawfirmitahari.com"),
+                "email": config.get("contact", {}).get("email", "info@pathivaralawfirmsunsari.com"),
                 "address": {
                     "@type": "PostalAddress",
                     "streetAddress": address,
@@ -53,7 +53,7 @@ def render_home(config, services, articles, team, faqs):
     for s in services:
         service_cards.append(f"""
         <article class="card">
-          <div class="card-badge">{s.service_code}</div>
+          <div class="card-badge">Core Practice Area</div>
           <h3 class="card-title"><a href="/services/{s.slug}/">{s.title}</a></h3>
           <p class="card-body">{s.short_intro[:160]}...</p>
           <div style="margin-top: 1rem;">
@@ -77,15 +77,18 @@ def render_home(config, services, articles, team, faqs):
     faq_items = [(f.question, f.answer) for f in faqs[:5]]
 
     body = f"""
-    <!-- 1 & 2. Hero Section -->
+    <!-- 1 & 2. Hero Section with Law Background -->
     <section class="hero">
       <div class="container">
         <div class="hero-inner">
           <div>
-            <div class="hero-badge">Nepal Bar Council Regulated Legal Chambers</div>
-            <h1 class="hero-title">Strategic Legal Counsel &amp; Principled Court Advocacy in Nepal</h1>
+            <div class="hero-badge">⚖ Nepal Bar Council Regulated Legal Chambers</div>
+            <h1 class="hero-title">
+              <strong class="firm-hero-bold">{firm_name}</strong>
+              <span class="hero-title-sub">Strategic Legal Counsel &amp; Principled Court Advocacy in Nepal</span>
+            </h1>
             <p class="hero-subtitle">
-              Admitted advocates providing comprehensive legal representation across District Courts, High Courts, and the Supreme Court of Nepal. Specialized in commercial disputes, property title verification, civil litigation, and corporate advisory.
+              Admitted advocates providing comprehensive legal representation across Sunsari District Court (Inaruwa), Morang District Court, High Court Biratnagar, and the Supreme Court of Nepal. Specialized in property &amp; land disputes, civil litigation, commercial contracts, and criminal defence.
             </p>
             <div class="hero-actions">
               <a href="/legal-consultation/" class="btn btn-primary">Schedule Confidential Consultation</a>

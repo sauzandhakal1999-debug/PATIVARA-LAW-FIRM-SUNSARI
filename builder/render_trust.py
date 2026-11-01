@@ -4,7 +4,7 @@ from builder.templates import (
 )
 
 def render_about_page(config):
-    firm_name = config.get("firm_name", "Pathivara Law Firm Itahari")
+    firm_name = config.get("firm_name", "PATHIVARA LAW FIRM SUNSARI")
     city = config.get("locations", {}).get("primary", {}).get("city", "Kathmandu")
     title = f"Dedicated to Principled Advocacy & Strategic Legal Counsel in Nepal | {firm_name}"
     description = "About our law firm in Nepal. Founded on principles of meticulous procedural preparation, strict ethics compliance under the Nepal Bar Council, and client confidentiality."
@@ -68,7 +68,7 @@ def render_about_page(config):
     return get_base_html(title, description, canonical, body, None, config, current_url=canonical)
 
 def render_team_index(team, config):
-    firm_name = config.get("firm_name", "Pathivara Law Firm Itahari")
+    firm_name = config.get("firm_name", "PATHIVARA LAW FIRM SUNSARI")
     title = f"Experienced Advocates & Legal Counsel Admitted in Nepal | {firm_name}"
     description = "Meet our qualified advocates and legal counsel admitted to the Nepal Bar Council. Specialized practitioners appearing regularly in Supreme Court, High Courts, and District Courts."
     canonical = "/team/"
@@ -130,9 +130,9 @@ def render_team_index(team, config):
     return get_base_html(title, description, canonical, body, None, config, current_url=canonical)
 
 def render_lawyer_profile(config):
-    firm_name = config.get("firm_name", "Pathivara Law Firm Itahari")
+    firm_name = config.get("firm_name", "PATHIVARA LAW FIRM SUNSARI")
     title = f"Senior Legal Counsel & Managing Advocate | {firm_name}"
-    description = "Profile of Senior Legal Counsel at Pathivara Law Firm Itahari. Specialized in Supreme Court civil litigation, property disputes, and commercial arbitration."
+    description = "Profile of Senior Legal Counsel at PATHIVARA LAW FIRM SUNSARI. Specialized in Supreme Court civil litigation, property disputes, and commercial arbitration."
     canonical = "/team/senior-advocate-profile/"
 
     crumbs = [
@@ -204,7 +204,7 @@ def render_lawyer_profile(config):
     return get_base_html(title, description, canonical, body, None, config, current_url=canonical)
 
 def render_consultation_page(config):
-    firm_name = config.get("firm_name", "Pathivara Law Firm Itahari")
+    firm_name = config.get("firm_name", "PATHIVARA LAW FIRM SUNSARI")
     phone = config.get("contact", {}).get("telephone_display", "+977 (01) 4XXXXXX")
     tel_link = config.get("contact", {}).get("telephone", "+97714000000")
     title = f"Schedule a Structured Legal Consultation | {firm_name}"
@@ -341,16 +341,16 @@ def render_consultation_page(config):
     return get_base_html(title, description, canonical, body, None, config, current_url=canonical)
 
 def render_contact_page(config):
-    firm_name = config.get("firm_name", "Pathivara Law Firm Itahari")
+    firm_name = config.get("firm_name", "PATHIVARA LAW FIRM SUNSARI")
     phone = config.get("contact", {}).get("telephone_display", "+977 (01) 4XXXXXX")
     tel_link = config.get("contact", {}).get("telephone", "+97714000000")
-    email = config.get("contact", {}).get("email", "info@pathivaralawfirmitahari.com")
+    email = config.get("contact", {}).get("email", "info@pathivaralawfirmsunsari.com")
     hours = config.get("contact", {}).get("office_hours", "Sun–Fri 9:30 AM–5:30 PM")
     primary_loc = config.get("locations", {}).get("primary", {})
     address = primary_loc.get("formatted_address", "Kathmandu, Nepal")
 
     title = f"Contact Our Law Chambers in Nepal | {firm_name}"
-    description = "Contact Pathivara Law Firm Itahari in Kathmandu and Koshi Province. Verified telephone, office hours, email, and accessible legal inquiry form."
+    description = "Contact PATHIVARA LAW FIRM SUNSARI in Kathmandu and Koshi Province. Verified telephone, office hours, email, and accessible legal inquiry form."
     canonical = "/contact/"
 
     crumbs = [("Contact Chambers", "")]
@@ -459,7 +459,7 @@ def render_contact_page(config):
     return get_base_html(title, description, canonical, body, None, config, current_url=canonical)
 
 def render_faqs_page(faqs, config):
-    firm_name = config.get("firm_name", "Pathivara Law Firm Itahari")
+    firm_name = config.get("firm_name", "PATHIVARA LAW FIRM SUNSARI")
     title = f"Frequently Asked Legal Questions | {firm_name}"
     description = "Frequently asked legal questions in Nepal. Insights on advocate fees, court jurisdiction, bail eligibility, divorce procedures, and land registration."
     canonical = "/faqs/"
@@ -514,7 +514,7 @@ def render_faqs_page(faqs, config):
     return get_base_html(title, description, canonical, body, None, config, current_url=canonical)
 
 def render_testimonials_page(config):
-    firm_name = config.get("firm_name", "Pathivara Law Firm Itahari")
+    firm_name = config.get("firm_name", "PATHIVARA LAW FIRM SUNSARI")
     title = f"Client Experiences & Professional Standards | {firm_name}"
     description = "Client experiences and ethical disclosure regarding legal advertising in Nepal. Learn about our commitment to Nepal Bar Council standards and client confidentiality."
     canonical = "/testimonials/"
@@ -571,9 +571,9 @@ def render_testimonials_page(config):
     return get_base_html(title, description, canonical, body, None, config, current_url=canonical)
 
 def render_privacy_page(config):
-    firm_name = config.get("firm_name", "Pathivara Law Firm Itahari")
+    firm_name = config.get("firm_name", "PATHIVARA LAW FIRM SUNSARI")
     title = f"Privacy Policy & Client Data Confidentiality | {firm_name}"
-    description = "Privacy policy for Pathivara Law Firm Itahari. How we protect client information under the Individual Privacy Act 2075 and professional advocate-client privilege."
+    description = "Privacy policy for PATHIVARA LAW FIRM SUNSARI. How we protect client information under the Individual Privacy Act 2075 and professional advocate-client privilege."
     canonical = "/privacy-policy/"
 
     crumbs = [("Privacy Policy", "")]
@@ -617,7 +617,7 @@ def render_privacy_page(config):
 
       <h2>5. Contact for Privacy Inquiries</h2>
       <p>
-        For inquiries regarding our privacy standards or to request correction of your personal data, contact our chambers data compliance officer at <code>info@pathivaralawfirmitahari.com</code>.
+        For inquiries regarding our privacy standards or to request correction of your personal data, contact our chambers data compliance officer at <code>info@pathivaralawfirmsunsari.com</code>.
       </p>
 
       {render_disclaimer()}
@@ -627,9 +627,9 @@ def render_privacy_page(config):
     return get_base_html(title, description, canonical, body, None, config, current_url=canonical)
 
 def render_terms_page(config):
-    firm_name = config.get("firm_name", "Pathivara Law Firm Itahari")
+    firm_name = config.get("firm_name", "PATHIVARA LAW FIRM SUNSARI")
     title = f"Terms of Website Use | {firm_name}"
-    description = "Terms of website use for Pathivara Law Firm Itahari. Conditions governing access, intellectual property, and jurisdictional applicability in Nepal."
+    description = "Terms of website use for PATHIVARA LAW FIRM SUNSARI. Conditions governing access, intellectual property, and jurisdictional applicability in Nepal."
     canonical = "/terms-of-use/"
 
     crumbs = [("Terms of Use", "")]
@@ -673,9 +673,9 @@ def render_terms_page(config):
     return get_base_html(title, description, canonical, body, None, config, current_url=canonical)
 
 def render_disclaimer_page(config):
-    firm_name = config.get("firm_name", "Pathivara Law Firm Itahari")
+    firm_name = config.get("firm_name", "PATHIVARA LAW FIRM SUNSARI")
     title = f"Legal Practice Disclaimer & Bar Council Notice | {firm_name}"
-    description = "Legal practice disclaimer for Pathivara Law Firm Itahari. Notice regarding advocate-client privilege, lack of outcome guarantees, and Nepal Bar Council ethics compliance."
+    description = "Legal practice disclaimer for PATHIVARA LAW FIRM SUNSARI. Notice regarding advocate-client privilege, lack of outcome guarantees, and Nepal Bar Council ethics compliance."
     canonical = "/legal-disclaimer/"
 
     crumbs = [("Legal Practice Disclaimer", "")]
@@ -726,9 +726,9 @@ def render_disclaimer_page(config):
     return get_base_html(title, description, canonical, body, None, config, current_url=canonical)
 
 def render_cookie_page(config):
-    firm_name = config.get("firm_name", "Pathivara Law Firm Itahari")
+    firm_name = config.get("firm_name", "PATHIVARA LAW FIRM SUNSARI")
     title = f"Cookie and Tracking Policy | {firm_name}"
-    description = "Cookie and tracking policy for Pathivara Law Firm Itahari. How we use local storage, session state, and respect user privacy."
+    description = "Cookie and tracking policy for PATHIVARA LAW FIRM SUNSARI. How we use local storage, session state, and respect user privacy."
     canonical = "/cookie-policy/"
 
     crumbs = [("Cookie Policy", "")]
@@ -767,9 +767,9 @@ def render_cookie_page(config):
     return get_base_html(title, description, canonical, body, None, config, current_url=canonical)
 
 def render_accessibility_page(config):
-    firm_name = config.get("firm_name", "Pathivara Law Firm Itahari")
+    firm_name = config.get("firm_name", "PATHIVARA LAW FIRM SUNSARI")
     title = f"Website Accessibility Statement | {firm_name}"
-    description = "Accessibility statement for Pathivara Law Firm Itahari. Our commitment to WCAG 2.1 AA standards, keyboard navigation, and screen reader compatibility."
+    description = "Accessibility statement for PATHIVARA LAW FIRM SUNSARI. Our commitment to WCAG 2.1 AA standards, keyboard navigation, and screen reader compatibility."
     canonical = "/accessibility/"
 
     crumbs = [("Accessibility", "")]
@@ -801,7 +801,7 @@ def render_accessibility_page(config):
         If you experience any accessibility barrier while browsing our site or need assistance with any legal guide, please contact our accessibility coordinator:
       </p>
       <p>
-        Email: <code>accessibility@pathivaralawfirmitahari.com</code><br>
+        Email: <code>accessibility@pathivaralawfirmsunsari.com</code><br>
         Chambers Registry: <code>+977 (01) 4XXXXXX</code>
       </p>
 
@@ -812,9 +812,9 @@ def render_accessibility_page(config):
     return get_base_html(title, description, canonical, body, None, config, current_url=canonical)
 
 def render_sitemap_page(services, articles, config):
-    firm_name = config.get("firm_name", "Pathivara Law Firm Itahari")
+    firm_name = config.get("firm_name", "PATHIVARA LAW FIRM SUNSARI")
     title = f"Complete Website Sitemap & Page Directory | {firm_name}"
-    description = "Complete HTML sitemap of Pathivara Law Firm Itahari. Comprehensive hierarchical index of all 10 core service pages, 30 legal guides, and trust pages."
+    description = "Complete HTML sitemap of PATHIVARA LAW FIRM SUNSARI. Comprehensive hierarchical index of all 10 core service pages, 30 legal guides, and trust pages."
     canonical = "/sitemap/"
 
     crumbs = [("HTML Sitemap", "")]
@@ -900,7 +900,7 @@ def render_sitemap_page(services, articles, config):
     return get_base_html(title, description, canonical, body, None, config, current_url=canonical)
 
 def render_404_page(config):
-    firm_name = config.get("firm_name", "Pathivara Law Firm Itahari")
+    firm_name = config.get("firm_name", "PATHIVARA LAW FIRM SUNSARI")
     title = f"Page Not Found (404) | {firm_name}"
     description = "The requested page could not be located. Browse our practice areas, legal guides, or contact our chambers registry."
     canonical = "/404.html"

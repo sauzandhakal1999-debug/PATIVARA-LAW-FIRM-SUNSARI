@@ -47,7 +47,7 @@ def get_articles() -> List[ArticlePage]:
         h1="What is a Civil Case under Nepalese Law? Definition, Legal Scope & Remedies",
         meta_title="What is a Civil Case under Nepalese Law? Legal Scope & Civil Code 2074",
         meta_description="Understand what constitutes a civil case (Dewani Mudda) under Nepal Muluki Civil Code 2074. Learn the differences between civil suits and criminal complaints.",
-        canonical_url="https://www.pathivaralawfirmitahari.com/legal-resources/what-is-a-civil-case-nepal/",
+        canonical_url="https://www.pathivaralawfirmsunsari.com/legal-resources/what-is-a-civil-case-nepal/",
         parent_service_url="/services/civil-litigation/",
         parent_service_name="Civil Litigation & Dispute Resolution",
         summary_direct_answer=(
@@ -158,7 +158,7 @@ def get_articles() -> List[ArticlePage]:
         h1="Stages of a Civil Lawsuit in Nepal: From Plaint Filing to Decree Execution",
         meta_title="Stages of a Civil Lawsuit in Nepal | District Court Procedure Guide",
         meta_description="A step-by-step legal guide detailing the six stages of a civil lawsuit under the Muluki Civil Procedure Code 2074 in District Courts and High Courts of Nepal.",
-        canonical_url="https://www.pathivaralawfirmitahari.com/legal-resources/stages-of-civil-lawsuit-nepal/",
+        canonical_url="https://www.pathivaralawfirmsunsari.com/legal-resources/stages-of-civil-lawsuit-nepal/",
         parent_service_url="/services/civil-litigation/",
         parent_service_name="Civil Litigation & Dispute Resolution",
         summary_direct_answer=(
@@ -240,7 +240,7 @@ def get_articles() -> List[ArticlePage]:
         h1="Essential Documents to Prepare Before Consulting a Civil Lawyer in Nepal",
         meta_title="Key Documents to Prepare Before Consulting a Civil Lawyer in Nepal",
         meta_description="A practical document checklist for clients meeting a civil lawyer in Nepal. How to organize evidence, contracts, title deeds, and communication records.",
-        canonical_url="https://www.pathivaralawfirmitahari.com/legal-resources/documents-to-prepare-civil-lawyer-nepal/",
+        canonical_url="https://www.pathivaralawfirmsunsari.com/legal-resources/documents-to-prepare-civil-lawyer-nepal/",
         parent_service_url="/services/civil-litigation/",
         parent_service_name="Civil Litigation & Dispute Resolution",
         summary_direct_answer=(
@@ -313,7 +313,7 @@ def get_articles() -> List[ArticlePage]:
         h1="Mediation vs. Civil Litigation in Nepal: Which Dispute Path Should You Choose?",
         meta_title="Mediation vs. Civil Litigation in Nepal | Comparative Analysis & Guide",
         meta_description="Compare court litigation with alternative mediation in Nepal under the Mediation Act 2068. Analyze speed, confidentiality, costs, and enforceability.",
-        canonical_url="https://www.pathivaralawfirmitahari.com/legal-resources/mediation-vs-civil-litigation-nepal/",
+        canonical_url="https://www.pathivaralawfirmsunsari.com/legal-resources/mediation-vs-civil-litigation-nepal/",
         parent_service_url="/services/civil-litigation/",
         parent_service_name="Civil Litigation & Dispute Resolution",
         summary_direct_answer=(
@@ -406,7 +406,7 @@ def get_articles() -> List[ArticlePage]:
         h1="What Factors Affect the Time and Cost of a Civil Dispute in Nepal?",
         meta_title="Civil Lawsuit Timeline and Cost in Nepal | Court Fees & Delay Factors",
         meta_description="Discover what determines the duration and cost of civil litigation in Nepal. Insights on court fees, expert commissions, appeals, and delay mitigation.",
-        canonical_url="https://www.pathivaralawfirmitahari.com/legal-resources/factors-affecting-civil-court-timeline-cost-nepal/",
+        canonical_url="https://www.pathivaralawfirmsunsari.com/legal-resources/factors-affecting-civil-court-timeline-cost-nepal/",
         parent_service_url="/services/civil-litigation/",
         parent_service_name="Civil Litigation & Dispute Resolution",
         summary_direct_answer=(
@@ -469,7 +469,7 @@ def get_articles() -> List[ArticlePage]:
         h1="Injunctions under Nepalese Civil Procedure: Protecting Your Rights During Trial",
         meta_title="Injunctions under Nepal Civil Procedure Code 2074 | Interim Relief Guide",
         meta_description="Learn how interim and permanent injunctions (Nishedhajna / Antarim Aadesh) work in Nepal under the Muluki Civil Procedure Code 2074. Grounds, tests, and enforcement.",
-        canonical_url="https://www.pathivaralawfirmitahari.com/legal-resources/injunctions-under-nepal-civil-procedure/",
+        canonical_url="https://www.pathivaralawfirmsunsari.com/legal-resources/injunctions-under-nepal-civil-procedure/",
         parent_service_url="/services/civil-litigation/",
         parent_service_name="Civil Litigation & Dispute Resolution",
         summary_direct_answer=(
@@ -540,7 +540,7 @@ def get_articles() -> List[ArticlePage]:
         h1="What to Know When Contacted by Nepal Police: Your Constitutional Rights Explained",
         meta_title="What to Know When Contacted by Nepal Police | Constitutional Rights Guide",
         meta_description="Know your legal rights under Article 20 of the Constitution of Nepal when approached, questioned, or summoned by the Nepal Police. Critical legal steps and advice.",
-        canonical_url="https://www.pathivaralawfirmitahari.com/legal-resources/what-to-know-when-contacted-by-nepal-police/",
+        canonical_url="https://www.pathivaralawfirmsunsari.com/legal-resources/what-to-know-when-contacted-by-nepal-police/",
         parent_service_url="/services/criminal-law/",
         parent_service_name="Criminal Law & Defence Representation",
         summary_direct_answer=(
@@ -611,7 +611,7 @@ def get_articles() -> List[ArticlePage]:
         h1="Arrest, Detention, and Judicial Remand (Thap Myad) in Nepalese Criminal Law",
         meta_title="Arrest, Detention and Remand in Nepal | Criminal Procedure Code 2074",
         meta_description="A comprehensive legal guide on police arrest procedures, 24-hour detention limits, and judicial remand extension (Thap Myad) in Nepal District Courts.",
-        canonical_url="https://www.pathivaralawfirmitahari.com/legal-resources/arrest-detention-remand-nepal-criminal-code/",
+        canonical_url="https://www.pathivaralawfirmsunsari.com/legal-resources/arrest-detention-remand-nepal-criminal-code/",
         parent_service_url="/services/criminal-law/",
         parent_service_name="Criminal Law & Defence Representation",
         summary_direct_answer=(
@@ -675,7 +675,7 @@ def get_articles() -> List[ArticlePage]:
         h1="Bail Eligibility, Hearings, and Procedures (Thunseka) in Nepal Courts",
         meta_title="Bail Eligibility & Hearing Procedures in Nepal | Sections 67, 68 & 73",
         meta_description="How bail hearings (Thunseka) work under the Muluki Criminal Procedure Code 2074 in Nepal. Understand Sections 67, 68, cash bail, bank guarantee, and appeal.",
-        canonical_url="https://www.pathivaralawfirmitahari.com/legal-resources/bail-eligibility-procedure-nepal-courts/",
+        canonical_url="https://www.pathivaralawfirmsunsari.com/legal-resources/bail-eligibility-procedure-nepal-courts/",
         parent_service_url="/services/criminal-law/",
         parent_service_name="Criminal Law & Defence Representation",
         summary_direct_answer=(
@@ -739,7 +739,7 @@ def get_articles() -> List[ArticlePage]:
         h1="Fundamental Rights of an Accused Person under the Constitution of Nepal",
         meta_title="Rights of an Accused Person in Nepal | Article 20 Constitution Analysis",
         meta_description="A legal review of the 10 fundamental rights guaranteed to an accused person under Article 20 of the Constitution of Nepal and the Criminal Code 2074.",
-        canonical_url="https://www.pathivaralawfirmitahari.com/legal-resources/rights-of-accused-person-constitution-nepal/",
+        canonical_url="https://www.pathivaralawfirmsunsari.com/legal-resources/rights-of-accused-person-constitution-nepal/",
         parent_service_url="/services/criminal-law/",
         parent_service_name="Criminal Law & Defence Representation",
         summary_direct_answer=(
@@ -800,7 +800,7 @@ def get_articles() -> List[ArticlePage]:
         h1="Criminal Trial Procedures in Nepal: From Charge-Sheet (Abhiyog-patra) to Verdict",
         meta_title="Criminal Trial Procedures in Nepal | Charge-Sheet to Final Verdict Guide",
         meta_description="Step-by-step breakdown of criminal trials under the Muluki Criminal Procedure Code 2074. Charge-sheets, prosecution evidence, cross-examination, and sentencing.",
-        canonical_url="https://www.pathivaralawfirmitahari.com/legal-resources/criminal-court-proceedings-nepal-charge-sheet-to-verdict/",
+        canonical_url="https://www.pathivaralawfirmsunsari.com/legal-resources/criminal-court-proceedings-nepal-charge-sheet-to-verdict/",
         parent_service_url="/services/criminal-law/",
         parent_service_name="Criminal Law & Defence Representation",
         summary_direct_answer=(
@@ -859,7 +859,7 @@ def get_articles() -> List[ArticlePage]:
         h1="What Documents to Prepare When Consulting a Criminal Defence Lawyer in Nepal",
         meta_title="Documents for Criminal Lawyer Consultation in Nepal | Evidence Checklist",
         meta_description="Checklist of essential documents and information to bring when consulting a criminal defence advocate in Nepal. FIR, arrest memos, alibi records, and bail surety.",
-        canonical_url="https://www.pathivaralawfirmitahari.com/legal-resources/documents-evidence-consulting-criminal-lawyer-nepal/",
+        canonical_url="https://www.pathivaralawfirmsunsari.com/legal-resources/documents-evidence-consulting-criminal-lawyer-nepal/",
         parent_service_url="/services/criminal-law/",
         parent_service_name="Criminal Law & Defence Representation",
         summary_direct_answer=(
@@ -921,7 +921,7 @@ def get_articles() -> List[ArticlePage]:
         h1="Divorce Procedure and Statutory Grounds in Nepal: A Complete Guide",
         meta_title="Divorce Procedure in Nepal | Muluki Civil Code 2074 Legal Guide",
         meta_description="Learn the divorce process, statutory grounds for husband and wife, property division, and mediation cooling periods under Muluki Civil Code 2074 in Nepal.",
-        canonical_url="https://www.pathivaralawfirmitahari.com/legal-resources/divorce-procedure-muluki-civil-code-nepal/",
+        canonical_url="https://www.pathivaralawfirmsunsari.com/legal-resources/divorce-procedure-muluki-civil-code-nepal/",
         parent_service_url="/services/family-law/",
         parent_service_name="Family Law & Divorce Representation",
         summary_direct_answer=(
@@ -995,7 +995,7 @@ def get_articles() -> List[ArticlePage]:
         h1="Mutual Consent vs. Contested Divorce in Nepal: A Procedural Comparison",
         meta_title="Mutual Consent vs Contested Divorce Nepal | Procedure, Cost & Timeline",
         meta_description="Compare mutual consent divorce (expedited 2-5 days) with contested divorce (1+ year) in Nepal courts. Analyze costs, property division, and emotional impact.",
-        canonical_url="https://www.pathivaralawfirmitahari.com/legal-resources/mutual-consent-vs-contested-divorce-nepal/",
+        canonical_url="https://www.pathivaralawfirmsunsari.com/legal-resources/mutual-consent-vs-contested-divorce-nepal/",
         parent_service_url="/services/family-law/",
         parent_service_name="Family Law & Divorce Representation",
         summary_direct_answer=(
@@ -1085,7 +1085,7 @@ def get_articles() -> List[ArticlePage]:
         h1="Child Custody and Parental Guardianship under Nepalese Family Law",
         meta_title="Child Custody Laws in Nepal | Guardianship, Welfare & Best Interests",
         meta_description="Explore how child custody and parental guardianship are determined in Nepal under Muluki Civil Code 2074 and Children Act 2075. Best interests of the child.",
-        canonical_url="https://www.pathivaralawfirmitahari.com/legal-resources/child-custody-guardianship-laws-nepal/",
+        canonical_url="https://www.pathivaralawfirmsunsari.com/legal-resources/child-custody-guardianship-laws-nepal/",
         parent_service_url="/services/family-law/",
         parent_service_name="Family Law & Divorce Representation",
         summary_direct_answer=(
@@ -1146,7 +1146,7 @@ def get_articles() -> List[ArticlePage]:
         h1="Checklist of Essential Documents for Filing Divorce in Nepal Courts",
         meta_title="Documents Required for Divorce in Nepal | Complete Checklist & Guide",
         meta_description="A complete checklist of documents required to file mutual consent or contested divorce in Nepal District Courts under Muluki Civil Code 2074.",
-        canonical_url="https://www.pathivaralawfirmitahari.com/legal-resources/documents-required-for-divorce-nepal/",
+        canonical_url="https://www.pathivaralawfirmsunsari.com/legal-resources/documents-required-for-divorce-nepal/",
         parent_service_url="/services/family-law/",
         parent_service_name="Family Law & Divorce Representation",
         summary_direct_answer=(
@@ -1207,7 +1207,7 @@ def get_articles() -> List[ArticlePage]:
         h1="Matrimonial Property Division (Ansha) and Partition Rights on Divorce in Nepal",
         meta_title="Matrimonial Property Division (Ansha) on Divorce in Nepal | Legal Guide",
         meta_description="How property partition (Anshabanda) and alimony work during divorce in Nepal under Section 99 of Muluki Civil Code 2074. Wife rights and asset valuation.",
-        canonical_url="https://www.pathivaralawfirmitahari.com/legal-resources/matrimonial-property-anshabanda-divorce-nepal/",
+        canonical_url="https://www.pathivaralawfirmsunsari.com/legal-resources/matrimonial-property-anshabanda-divorce-nepal/",
         parent_service_url="/services/family-law/",
         parent_service_name="Family Law & Divorce Representation",
         summary_direct_answer=(
@@ -1265,7 +1265,7 @@ def get_articles() -> List[ArticlePage]:
         h1="Spousal and Child Maintenance (Kharacha) under Nepalese Law",
         meta_title="Spousal and Child Maintenance in Nepal | Kharacha Legal Rights & Guide",
         meta_description="How courts determine spousal and child maintenance (Kharacha) in Nepal under Muluki Civil Code 2074. Interim maintenance, calculations, and enforcement.",
-        canonical_url="https://www.pathivaralawfirmitahari.com/legal-resources/spousal-child-maintenance-laws-nepal/",
+        canonical_url="https://www.pathivaralawfirmsunsari.com/legal-resources/spousal-child-maintenance-laws-nepal/",
         parent_service_url="/services/family-law/",
         parent_service_name="Family Law & Divorce Representation",
         summary_direct_answer=(
@@ -1332,7 +1332,7 @@ def get_articles() -> List[ArticlePage]:
         h1="How to Verify Land Ownership and Title Records (Lalpurja) in Nepal",
         meta_title="How to Check Land Ownership in Nepal | Lalpurja & Malpot Verification Guide",
         meta_description="Step-by-step legal guide on verifying real estate ownership, Lalpurja authenticity, Malpot Shrestha registers, and Rokka encumbrance searches in Nepal.",
-        canonical_url="https://www.pathivaralawfirmitahari.com/legal-resources/how-to-check-land-ownership-lalpurja-nepal/",
+        canonical_url="https://www.pathivaralawfirmsunsari.com/legal-resources/how-to-check-land-ownership-lalpurja-nepal/",
         parent_service_url="/services/property-land-law/",
         parent_service_name="Property & Land Law Representation",
         summary_direct_answer=(
@@ -1401,7 +1401,7 @@ def get_articles() -> List[ArticlePage]:
         h1="Legal Due Diligence Checklist for Buying Land and Property in Nepal",
         meta_title="Real Estate Due Diligence Checklist in Nepal | Property Buying Guide",
         meta_description="Protect your property investment with our 10-point legal due diligence checklist for purchasing land, houses, and commercial property in Nepal.",
-        canonical_url="https://www.pathivaralawfirmitahari.com/legal-resources/legal-due-diligence-buying-land-nepal/",
+        canonical_url="https://www.pathivaralawfirmsunsari.com/legal-resources/legal-due-diligence-buying-land-nepal/",
         parent_service_url="/services/property-land-law/",
         parent_service_name="Property & Land Law Representation",
         summary_direct_answer=(
@@ -1466,7 +1466,7 @@ def get_articles() -> List[ArticlePage]:
         h1="Land Registration and Deed Transfer (Rajinama) in Nepal: Malpot Office Guide",
         meta_title="Land Registration & Deed Transfer in Nepal | Malpot Office Rajinama Guide",
         meta_description="Complete guide to transferring land title at the Land Revenue Office (Malpot) in Nepal. Sale deed (Rajinama) drafting, government fees, and biometric registration.",
-        canonical_url="https://www.pathivaralawfirmitahari.com/legal-resources/land-registration-malpot-deed-transfer-nepal/",
+        canonical_url="https://www.pathivaralawfirmsunsari.com/legal-resources/land-registration-malpot-deed-transfer-nepal/",
         parent_service_url="/services/property-land-law/",
         parent_service_name="Property & Land Law Representation",
         summary_direct_answer=(
@@ -1530,7 +1530,7 @@ def get_articles() -> List[ArticlePage]:
         h1="Ancestral Property Partition (Anshabanda) in Nepal: Law, Rights, and Disputes",
         meta_title="Property Partition (Anshabanda) Disputes in Nepal | Muluki Civil Code",
         meta_description="A legal guide on ancestral property partition (Anshabanda) in Nepal. Equal rights of daughters, concealing assets, partition deed drafting, and court lawsuits.",
-        canonical_url="https://www.pathivaralawfirmitahari.com/legal-resources/property-partition-anshabanda-disputes-nepal/",
+        canonical_url="https://www.pathivaralawfirmsunsari.com/legal-resources/property-partition-anshabanda-disputes-nepal/",
         parent_service_url="/services/property-land-law/",
         parent_service_name="Property & Land Law Representation",
         summary_direct_answer=(
@@ -1593,7 +1593,7 @@ def get_articles() -> List[ArticlePage]:
         h1="Inheritance, Succession, and Bakaspatra (Gift Deeds) in Nepalese Land Law",
         meta_title="Inheritance & Bakaspatra Land Laws in Nepal | Gift Deeds & Succession Guide",
         meta_description="Understand Bakaspatra (Gift Deeds) and inheritance (Apunstrali) under Muluki Civil Code 2074. Learn how gift deeds can be executed, challenged, and mutated.",
-        canonical_url="https://www.pathivaralawfirmitahari.com/legal-resources/inheritance-bakaspatra-land-laws-nepal/",
+        canonical_url="https://www.pathivaralawfirmsunsari.com/legal-resources/inheritance-bakaspatra-land-laws-nepal/",
         parent_service_url="/services/property-land-law/",
         parent_service_name="Property & Land Law Representation",
         summary_direct_answer=(
@@ -1649,7 +1649,7 @@ def get_articles() -> List[ArticlePage]:
         h1="Land Boundary Conflicts and Encroachment Remedies in Nepal",
         meta_title="Land Boundary Disputes & Encroachment Remedies in Nepal | Legal Guide",
         meta_description="How to resolve land boundary conflicts, illegal encroachment, and easement disputes in Nepal. Municipal Judicial Committees and District Court remedies.",
-        canonical_url="https://www.pathivaralawfirmitahari.com/legal-resources/land-boundary-encroachment-remedies-nepal/",
+        canonical_url="https://www.pathivaralawfirmsunsari.com/legal-resources/land-boundary-encroachment-remedies-nepal/",
         parent_service_url="/services/property-land-law/",
         parent_service_name="Property & Land Law Representation",
         summary_direct_answer=(
@@ -1711,7 +1711,7 @@ def get_articles() -> List[ArticlePage]:
         h1="Step-by-Step Guide to Registering a Company at the OCR in Nepal",
         meta_title="Steps to Register a Company in Nepal | Office of Company Registrar Guide",
         meta_description="A step-by-step corporate guide to incorporating a Private Limited Company at the Office of Company Registrar (OCR) in Nepal under Companies Act 2063.",
-        canonical_url="https://www.pathivaralawfirmitahari.com/legal-resources/steps-registering-company-ocr-nepal/",
+        canonical_url="https://www.pathivaralawfirmsunsari.com/legal-resources/steps-registering-company-ocr-nepal/",
         parent_service_url="/services/corporate-business-law/",
         parent_service_name="Corporate & Business Law Advisory",
         summary_direct_answer=(
@@ -1781,7 +1781,7 @@ def get_articles() -> List[ArticlePage]:
         h1="Sole Proprietorship vs. Partnership vs. Private Limited Company in Nepal",
         meta_title="Sole Proprietorship vs Partnership vs Company in Nepal | Legal Comparison",
         meta_description="Compare Sole Proprietorship, Partnership Firm, and Private Limited Company in Nepal. Analyze personal liability, taxation, registration, and scaling.",
-        canonical_url="https://www.pathivaralawfirmitahari.com/legal-resources/proprietorship-vs-partnership-vs-private-limited-nepal/",
+        canonical_url="https://www.pathivaralawfirmsunsari.com/legal-resources/proprietorship-vs-partnership-vs-private-limited-nepal/",
         parent_service_url="/services/corporate-business-law/",
         parent_service_name="Corporate & Business Law Advisory",
         summary_direct_answer=(
@@ -1885,7 +1885,7 @@ def get_articles() -> List[ArticlePage]:
         h1="Essential Clauses Every Commercial Contract Must Contain under Nepalese Law",
         meta_title="Essential Clauses in Commercial Contracts in Nepal | Contract Law Guide",
         meta_description="A legal masterclass on drafting commercial contracts in Nepal under Muluki Civil Code 2074. Indemnity, termination, limitation of liability, and ADR clauses.",
-        canonical_url="https://www.pathivaralawfirmitahari.com/legal-resources/essential-clauses-commercial-contracts-nepal/",
+        canonical_url="https://www.pathivaralawfirmsunsari.com/legal-resources/essential-clauses-commercial-contracts-nepal/",
         parent_service_url="/services/corporate-business-law/",
         parent_service_name="Corporate & Business Law Advisory",
         summary_direct_answer=(
@@ -1947,7 +1947,7 @@ def get_articles() -> List[ArticlePage]:
         h1="Key Legal Considerations in Contract Drafting and Execution in Nepal",
         meta_title="Contract Drafting & Execution in Nepal | Legal Standards & Enforceability",
         meta_description="A legal guide on drafting enforceable contracts in Nepal under Muluki Civil Code 2074. Signing protocols, witness requirements, and void agreement traps.",
-        canonical_url="https://www.pathivaralawfirmitahari.com/legal-resources/legal-considerations-contract-drafting-nepal/",
+        canonical_url="https://www.pathivaralawfirmsunsari.com/legal-resources/legal-considerations-contract-drafting-nepal/",
         parent_service_url="/services/corporate-business-law/",
         parent_service_name="Corporate & Business Law Advisory",
         summary_direct_answer=(
@@ -2006,7 +2006,7 @@ def get_articles() -> List[ArticlePage]:
         h1="Fiduciary Duties and Statutory Liabilities of Directors under Companies Act 2063",
         meta_title="Directors Duties and Liabilities in Nepal | Companies Act 2063 Guide",
         meta_description="A legal analysis of corporate director duties, personal liabilities, conflict-of-interest disclosures, and governance rules under Nepal Companies Act 2063.",
-        canonical_url="https://www.pathivaralawfirmitahari.com/legal-resources/directors-duties-liabilities-companies-act-nepal/",
+        canonical_url="https://www.pathivaralawfirmsunsari.com/legal-resources/directors-duties-liabilities-companies-act-nepal/",
         parent_service_url="/services/corporate-business-law/",
         parent_service_name="Corporate & Business Law Advisory",
         summary_direct_answer=(
@@ -2071,7 +2071,7 @@ def get_articles() -> List[ArticlePage]:
         h1="Resolving Shareholder and Partnership Disputes in Nepal: Legal & ADR Options",
         meta_title="Shareholder & Partnership Dispute Resolution in Nepal | High Court & ADR",
         meta_description="How to handle shareholder deadlocks, minority oppression petitions, and partnership fallout in Nepal under Companies Act 2063 and Partnership Act 2020.",
-        canonical_url="https://www.pathivaralawfirmitahari.com/legal-resources/shareholder-partnership-dispute-resolution-nepal/",
+        canonical_url="https://www.pathivaralawfirmsunsari.com/legal-resources/shareholder-partnership-dispute-resolution-nepal/",
         parent_service_url="/services/corporate-business-law/",
         parent_service_name="Corporate & Business Law Advisory",
         summary_direct_answer=(

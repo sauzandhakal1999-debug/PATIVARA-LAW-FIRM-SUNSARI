@@ -1,13 +1,13 @@
 """
-Pathivara Law Firm Itahari - Reusable Component Templates
+PATHIVARA LAW FIRM SUNSARI - Reusable Component Templates
 Generates semantic, accessible HTML5 components with JSON-LD structured data.
 """
 
 import json
 
 def get_base_html(title, description, canonical_url, body_content, schema_json, config, current_url="/"):
-    site_url = config.get("site_url", "https://www.pathivaralawfirmitahari.com")
-    firm_name = config.get("firm_name", "Pathivara Law Firm Itahari")
+    site_url = config.get("site_url", "https://www.pathivaralawfirmsunsari.com")
+    firm_name = config.get("firm_name", "PATHIVARA LAW FIRM SUNSARI")
     clean_canonical = canonical_url if canonical_url.startswith("http") else f"{site_url}{canonical_url}"
 
     schema_tag = ""
@@ -57,7 +57,7 @@ def get_base_html(title, description, canonical_url, body_content, schema_json, 
 </html>"""
 
 def render_header(config, current_url="/"):
-    firm_name = config.get("firm_name", "Pathivara Law Firm Itahari")
+    firm_name = config.get("firm_name", "PATHIVARA LAW FIRM SUNSARI")
     tagline = config.get("firm_tagline", "Specialized Legal Advocacy & Advisory")
     phone = config.get("contact", {}).get("telephone_display", "+977 (01) 4XXXXXX")
     tel_link = config.get("contact", {}).get("telephone", "+97714000000")
@@ -85,7 +85,7 @@ def render_header(config, current_url="/"):
     <a href="/" class="site-brand" aria-label="{firm_name} Home">
       <div class="site-brand-logo" aria-hidden="true">⚖</div>
       <div class="site-brand-text">
-        <span class="site-brand-title">{firm_name}</span>
+        <span class="site-brand-title"><strong>{firm_name}</strong></span>
         <span class="site-brand-tagline">{tagline}</span>
       </div>
     </a>
@@ -210,7 +210,7 @@ def render_author_box():
     return f"""<div class="author-box" aria-label="Author Credentials">
   <div class="author-avatar">AL</div>
   <div class="author-info">
-    <h4>Prepared by Legal Counsel | Pathivara Law Firm Itahari</h4>
+    <h4>Prepared by Legal Counsel | PATHIVARA LAW FIRM SUNSARI</h4>
     <div class="author-title">Admitted to Nepal Bar Council | Regular Appearance in District, High & Supreme Courts</div>
     <p class="author-bio">Researched in strict adherence to current Nepalese statutory law, including the Muluki Civil Code 2074 and Muluki Criminal Code 2074. Reviewed for procedural accuracy.</p>
   </div>
@@ -223,18 +223,18 @@ def render_disclaimer(custom_text=None):
 </aside>"""
 
 def render_footer(config):
-    firm_name = config.get("firm_name", "Pathivara Law Firm Itahari")
+    firm_name = config.get("firm_name", "PATHIVARA LAW FIRM SUNSARI")
     primary_loc = config.get("locations", {}).get("primary", {})
     phone = config.get("contact", {}).get("telephone_display", "+977 (01) 4XXXXXX")
     tel_link = config.get("contact", {}).get("telephone", "+97714000000")
-    email = config.get("contact", {}).get("email", "info@pathivaralawfirmitahari.com")
+    email = config.get("contact", {}).get("email", "info@pathivaralawfirmsunsari.com")
     address = primary_loc.get("formatted_address", "Kathmandu, Nepal")
     bar_info = config.get("regulatory", {}).get("bar_registration_number", "Nepal Bar Council Registered")
 
     return f"""<footer class="site-footer">
   <div class="container footer-grid">
     <div class="footer-col">
-      <h3>{firm_name}</h3>
+      <h3><strong>{firm_name}</strong></h3>
       <p style="color: #94a3b8; font-size: 0.95rem; line-height: 1.6; margin-bottom: 1rem;">
         Dedicated legal advocacy, commercial counsel, and dispute resolution across Nepal. Operating in strict accordance with the Nepal Bar Council Code of Conduct (2051).
       </p>

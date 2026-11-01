@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Pathivara Law Firm Itahari - Site Builder Orchestrator
+PATHIVARA LAW FIRM SUNSARI - Site Builder Orchestrator
 Renders all 56 semantic pages into dist/, copies assets, and produces sitemap.xml & robots.txt.
 """
 
@@ -62,7 +62,7 @@ def write_page(url_path, html_content):
         f.write(html_content)
 
 def generate_xml_sitemap(all_urls, config):
-    site_url = config.get("site_url", "https://www.pathivaralawfirmitahari.com")
+    site_url = config.get("site_url", "https://www.pathivaralawfirmsunsari.com")
     today = datetime.now().strftime("%Y-%m-%d")
 
     xml_lines = [
@@ -87,8 +87,8 @@ def generate_xml_sitemap(all_urls, config):
     print(f"Generated XML sitemap with {len(all_urls)} URLs at {sitemap_path}")
 
 def generate_robots_txt(config):
-    site_url = config.get("site_url", "https://www.pathivaralawfirmitahari.com")
-    robots_content = f"""# Robots.txt for {config.get('firm_name', 'Pathivara Law Firm Itahari')}
+    site_url = config.get("site_url", "https://www.pathivaralawfirmsunsari.com")
+    robots_content = f"""# Robots.txt for {config.get('firm_name', 'PATHIVARA LAW FIRM SUNSARI')}
 User-agent: *
 Allow: /
 
@@ -111,7 +111,7 @@ def copy_assets():
 
 def main():
     print("==================================================")
-    print("Building Pathivara Law Firm Itahari Static Website...")
+    print("Building PATHIVARA LAW FIRM SUNSARI Static Website...")
     print("==================================================")
 
     config = load_business_config()

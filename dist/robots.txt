@@ -1,6 +1,6 @@
-# Robots.txt for Pathivara Law Firm Itahari
+# Robots.txt for PATHIVARA LAW FIRM SUNSARI
 User-agent: *
 Allow: /
 
 # XML Sitemap
-Sitemap: https://www.pathivaralawfirmitahari.com/sitemap.xml
+Sitemap: https://www.pathivaralawfirmsunsari.com/sitemap.xml

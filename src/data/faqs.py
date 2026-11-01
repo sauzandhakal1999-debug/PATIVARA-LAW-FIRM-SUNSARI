@@ -13,7 +13,7 @@ class FAQItem:
 GLOBAL_FAQS: List[FAQItem] = [
     FAQItem(
         question="How do I schedule an initial legal consultation in Nepal?",
-        answer="You can schedule an initial consultation by calling our office (+977-1-4240000), using the confidential consultation request form on our website, or emailing consult@pathivaralawfirmitahari.com. We offer in-person consultations at our Kathmandu and Itahari offices, as well as secure virtual consultations via Google Meet or Zoom for clients outside these cities or residing abroad.",
+        answer="You can schedule an initial consultation by calling our office (+977-1-4240000), using the confidential consultation request form on our website, or emailing consult@pathivaralawfirmsunsari.com. We offer in-person consultations at our Kathmandu and Itahari offices, as well as secure virtual consultations via Google Meet or Zoom for clients outside these cities or residing abroad.",
         category="General & Consultation",
         related_service_url="/legal-consultation/"
     ),

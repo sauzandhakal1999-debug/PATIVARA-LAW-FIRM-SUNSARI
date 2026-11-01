@@ -1,4 +1,4 @@
-# Service page renderers for Pathivara Law Firm Itahari
+# Service page renderers for PATHIVARA LAW FIRM SUNSARI
 from src.data.services import ServicePage
 from builder.templates import (
     get_base_html, render_breadcrumbs, render_timeline, render_checklist,
@@ -6,10 +6,10 @@ from builder.templates import (
 )
 
 def render_service_page(service: ServicePage, config: dict):
-    firm_name = config.get("firm_name", "Pathivara Law Firm Itahari")
+    firm_name = config.get("firm_name", "PATHIVARA LAW FIRM SUNSARI")
     phone = config.get("contact", {}).get("telephone_display", "+977 (01) 4XXXXXX")
     tel_link = config.get("contact", {}).get("telephone", "+97714000000")
-    site_url = config.get("site_url", "https://www.pathivaralawfirmitahari.com")
+    site_url = config.get("site_url", "https://www.pathivaralawfirmsunsari.com")
 
     crumbs = [("Practice Areas", "/services/"), (service.title, "")]
     canonical = f"/services/{service.slug}/"
@@ -218,7 +218,7 @@ def render_service_page(service: ServicePage, config: dict):
             </p>
             <div style="border-top: 1px solid var(--color-border); padding-top: 1rem; margin-bottom: 1.25rem;">
               <span style="font-size: 0.85rem; display: block; margin-bottom: 0.35rem;"><strong>Chambers Line:</strong> <a href="tel:{tel_link}">{phone}</a></span>
-              <span style="font-size: 0.85rem; display: block;"><strong>Direct Email:</strong> consult@pathivaralawfirmitahari.com</span>
+              <span style="font-size: 0.85rem; display: block;"><strong>Direct Email:</strong> consult@pathivaralawfirmsunsari.com</span>
             </div>
             <a href="/legal-consultation/" class="btn btn-primary" style="width: 100%; text-align: center; font-size: 0.9rem;">Schedule Consultation</a>
           </div>
@@ -243,10 +243,10 @@ def render_service_page(service: ServicePage, config: dict):
     return get_base_html(service.meta_title, service.meta_description, canonical, body, schema, config, current_url=canonical)
 
 def render_services_index(services, config):
-    title = "Comprehensive Legal Practice Areas in Nepal | Pathivara Law Firm Itahari"
+    title = "Comprehensive Legal Practice Areas in Nepal | PATHIVARA LAW FIRM SUNSARI"
     description = "Complete directory of professional legal services in Nepal. Civil litigation, criminal defence, family law, property disputes, and corporate advisory."
     canonical = "/services/"
-    site_url = config.get("site_url", "https://www.pathivaralawfirmitahari.com")
+    site_url = config.get("site_url", "https://www.pathivaralawfirmsunsari.com")
 
     crumbs = [("Practice Areas", "")]
 
@@ -275,7 +275,7 @@ def render_services_index(services, config):
     for s in services:
         cards_html.append(f"""
         <article class="card">
-          <div class="card-badge">{s.service_code}</div>
+          <div class="card-badge">Core Practice Area</div>
           <h2 class="card-title" style="font-size: 1.35rem;"><a href="/services/{s.slug}/">{s.title}</a></h2>
           <p class="card-body">{s.short_intro}</p>
           <div style="margin-top: 1.25rem; padding-top: 1rem; border-top: 1px solid var(--color-border); font-size: 0.875rem; color: var(--color-text-muted);">
