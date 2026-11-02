@@ -309,7 +309,7 @@ li {
 .hero {
   position: relative;
   background-color: var(--color-primary);
-  background-image: linear-gradient(rgba(15, 28, 46, 0.86), rgba(15, 28, 46, 0.86)), url('/assets/img/law-hero-bg.jpg');
+  background-image: linear-gradient(rgba(15, 28, 46, 0.86), rgba(15, 28, 46, 0.86)), url('../img/law-hero-bg.jpg');
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;

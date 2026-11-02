@@ -40,10 +40,20 @@ from builder.render_trust import (
 
 DIST_DIR = os.path.join(BASE_DIR, "dist")
 CONFIG_PATH = os.path.join(BASE_DIR, "config", "business.json")
+BASE_PATH = os.environ.get("SITE_BASE_PATH", "").strip().rstrip("/")
 
 def load_business_config():
     with open(CONFIG_PATH, "r", encoding="utf-8") as f:
         return json.load(f)
+
+def apply_base_path(html_content):
+    if not BASE_PATH:
+        return html_content
+    import re
+    # Prefix root-relative href and src (excluding protocol-relative //)
+    html = re.sub(r'href="/(?![/])', f'href="{BASE_PATH}/', html_content)
+    html = re.sub(r'src="/(?![/])', f'src="{BASE_PATH}/', html)
+    return html
 
 def write_page(url_path, html_content):
     clean_path = url_path.strip("/")
@@ -59,7 +69,7 @@ def write_page(url_path, html_content):
 
     os.makedirs(target_dir, exist_ok=True)
     with open(target_file, "w", encoding="utf-8") as f:
-        f.write(html_content)
+        f.write(apply_base_path(html_content))
 
 def generate_xml_sitemap(all_urls, config):
     site_url = config.get("site_url", "https://www.pathivaralawfirmsunsari.com")

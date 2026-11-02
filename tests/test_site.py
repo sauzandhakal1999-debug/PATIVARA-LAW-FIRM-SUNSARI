@@ -96,6 +96,9 @@ class TestLawFirmWebsite(unittest.TestCase):
                 else:
                     # Root-relative link
                     path_part = clean_href.lstrip("/")
+                    base_prefix = os.environ.get("SITE_BASE_PATH", "").strip("/ ")
+                    if base_prefix and path_part.startswith(base_prefix):
+                        path_part = path_part[len(base_prefix):].lstrip("/")
                     if path_part == "" or path_part.endswith("/"):
                         target_candidate = os.path.join(DIST_DIR, path_part, "index.html")
                     elif os.path.splitext(path_part)[1]:
