@@ -7,30 +7,45 @@
   "central_entity": "Law Firm",
   "locations": {
     "primary": {
-      "city": "Sunsari (Inaruwa / Itahari)",
+      "name": "Primary Sunsari Chambers (Inaruwa)",
+      "city": "Inaruwa",
       "region": "Sunsari District, Koshi Province",
       "country": "Nepal",
-      "formatted_address": "Main Road (Near District Court / Municipality), Sunsari, Koshi Province, Nepal",
+      "formatted_address": "Adalat Road, Inaruwa, Sunsari, Nepal",
       "postal_code": "56700"
+    },
+    "branch": {
+      "name": "Branch Office (Itahari - Koshi Province)",
+      "city": "Itahari",
+      "region": "Sunsari District, Koshi Province",
+      "country": "Nepal",
+      "formatted_address": "Itahari-4 (Bagaicha Tole), Sunsari, Nepal",
+      "postal_code": "56705"
     },
     "secondary_service_areas": [
       "Inaruwa (Sunsari District Court)",
+      "Itahari (Bagaicha Tole)",
       "Biratnagar (High Court Biratnagar / Morang District Court)",
-      "Itahari",
       "Dharan",
       "Damak (Jhapa)",
       "Kathmandu (Supreme Court of Nepal)"
     ],
-    "configurable_location_note": "Primary location configured for Sunsari District (Inaruwa / Itahari), Koshi Province with full court representation across Sunsari District Court, Morang District Court, High Court Biratnagar, and Supreme Court of Nepal."
+    "configurable_location_note": "Primary chambers located at Adalat Road, Inaruwa with branch facilities at Itahari-4 (Bagaicha Tole), Sunsari District, Koshi Province. Full court representation across Sunsari District Court, Morang District Court, High Court Biratnagar, and Supreme Court of Nepal."
   },
   "contact": {
-    "telephone": "+977-25-580000",
-    "telephone_display": "+977 (025) 580000",
-    "mobile_emergency": "+977-9852000000",
-    "email": "info@pathivaralawfirmsunsari.com",
-    "consultation_email": "consult@pathivaralawfirmsunsari.com",
-    "preferred_contact_method": "PHONE / CONSULTATION FORM / OFFICE APPOINTMENT",
-    "office_hours": "Sunday to Friday: 9:30 AM – 5:30 PM (NPT); Closed on Saturdays & Public Holidays"
+    "telephone": "+977-9745875449",
+    "telephone_display": "9745875449 / 9852057087",
+    "mobile_primary": "+977-9745875449",
+    "mobile_secondary": "+977-9852057087",
+    "branch_mobile": "+977-9852059106",
+    "branch_mobile_display": "9852059106",
+    "branch_telephone": "+977-9852059106",
+    "branch_telephone_display": "9852059106",
+    "mobile_emergency": "+977-9852057087",
+    "email": "sauzandhakal1999@gmail.com",
+    "consultation_email": "sauzandhakal1999@gmail.com",
+    "preferred_contact_method": "MOBILE / CONSULTATION FORM / OFFICE APPOINTMENT",
+    "office_hours": "Monday to Friday: 9:30 AM – 5:00 PM (Closed on Saturdays, Sundays & Public Holidays)"
   },
   "regulatory": {
     "bar_council": "Nepal Bar Council",

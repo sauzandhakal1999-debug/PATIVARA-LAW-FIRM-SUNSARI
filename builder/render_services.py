@@ -7,8 +7,11 @@ from builder.templates import (
 
 def render_service_page(service: ServicePage, config: dict):
     firm_name = config.get("firm_name", "PATHIVARA LAW FIRM SUNSARI")
-    phone = config.get("contact", {}).get("telephone_display", "+977 (01) 4XXXXXX")
-    tel_link = config.get("contact", {}).get("telephone", "+97714000000")
+    mobile1 = config.get("contact", {}).get("mobile_primary", "+977-9745875449")
+    mobile2 = config.get("contact", {}).get("mobile_secondary", "+977-9852057087")
+    phone = config.get("contact", {}).get("telephone_display", "9745875449 / 9852057087")
+    tel_link = mobile1
+    email = config.get("contact", {}).get("email", "sauzandhakal1999@gmail.com")
     site_url = config.get("site_url", "https://www.pathivaralawfirmsunsari.com")
 
     crumbs = [("Practice Areas", "/services/"), (service.title, "")]
@@ -217,8 +220,8 @@ def render_service_page(service: ServicePage, config: dict):
               Regular Appearance in Supreme Court &amp; High Courts
             </p>
             <div style="border-top: 1px solid var(--color-border); padding-top: 1rem; margin-bottom: 1.25rem;">
-              <span style="font-size: 0.85rem; display: block; margin-bottom: 0.35rem;"><strong>Chambers Line:</strong> <a href="tel:{tel_link}">{phone}</a></span>
-              <span style="font-size: 0.85rem; display: block;"><strong>Direct Email:</strong> consult@pathivaralawfirmsunsari.com</span>
+              <span style="font-size: 0.85rem; display: block; margin-bottom: 0.35rem;"><strong>Chambers Mobile:</strong> <a href="tel:{mobile1}">9745875449</a> / <a href="tel:{mobile2}">9852057087</a></span>
+              <span style="font-size: 0.85rem; display: block;"><strong>Direct Email:</strong> <a href="mailto:{email}">{email}</a></span>
             </div>
             <a href="/legal-consultation/" class="btn btn-primary" style="width: 100%; text-align: center; font-size: 0.9rem;">Schedule Consultation</a>
           </div>

@@ -5,7 +5,7 @@ from builder.templates import (
 
 def render_about_page(config):
     firm_name = config.get("firm_name", "PATHIVARA LAW FIRM SUNSARI")
-    city = config.get("locations", {}).get("primary", {}).get("city", "Kathmandu")
+    city = config.get("locations", {}).get("primary", {}).get("city", "Inaruwa")
     title = f"Dedicated to Principled Advocacy & Strategic Legal Counsel in Nepal | {firm_name}"
     description = "About our law firm in Nepal. Founded on principles of meticulous procedural preparation, strict ethics compliance under the Nepal Bar Council, and client confidentiality."
     canonical = "/about/"
@@ -205,10 +205,12 @@ def render_lawyer_profile(config):
 
 def render_consultation_page(config):
     firm_name = config.get("firm_name", "PATHIVARA LAW FIRM SUNSARI")
-    phone = config.get("contact", {}).get("telephone_display", "+977 (01) 4XXXXXX")
-    tel_link = config.get("contact", {}).get("telephone", "+97714000000")
+    phone = config.get("contact", {}).get("telephone_display", "9745875449 / 9852057087")
+    mobile1 = config.get("contact", {}).get("mobile_primary", "+977-9745875449")
+    mobile2 = config.get("contact", {}).get("mobile_secondary", "+977-9852057087")
+    tel_link = mobile1
     title = f"Schedule a Structured Legal Consultation | {firm_name}"
-    description = "Book an initial legal consultation in Kathmandu or Koshi Province. Understand consultation protocols, what documents to prepare, and professional fee policies."
+    description = "Book an initial legal consultation in Sunsari (Inaruwa / Itahari) or Koshi Province. Understand consultation protocols, what documents to prepare, and professional fee policies."
     canonical = "/legal-consultation/"
 
     crumbs = [("Legal Consultation", "")]
@@ -302,8 +304,8 @@ def render_consultation_page(config):
               <div class="form-group">
                 <label for="consult-mode" class="form-label">Preferred Consultation Format</label>
                 <select id="consult-mode" name="consultation_mode" class="form-control">
-                  <option value="kathmandu">In-Person (Kathmandu Chambers)</option>
-                  <option value="itahari">In-Person (Koshi / Itahari Office)</option>
+                  <option value="inaruwa">In-Person (Primary Sunsari Chambers - Inaruwa)</option>
+                  <option value="itahari">In-Person (Branch Office - Itahari)</option>
                   <option value="virtual">Secure Virtual Meeting (Google Meet / Zoom)</option>
                 </select>
               </div>
@@ -326,7 +328,7 @@ def render_consultation_page(config):
             </form>
 
             <div style="margin-top: 1.5rem; text-align: center; font-size: 0.85rem; color: var(--color-text-muted);">
-              Or call our chambers registry directly at <a href="tel:{tel_link}">{phone}</a>
+              Or call our chambers registry directly at <a href="tel:{mobile1}">9745875449</a> / <a href="tel:{mobile2}">9852057087</a>
             </div>
           </div>
         </div>
@@ -342,15 +344,19 @@ def render_consultation_page(config):
 
 def render_contact_page(config):
     firm_name = config.get("firm_name", "PATHIVARA LAW FIRM SUNSARI")
-    phone = config.get("contact", {}).get("telephone_display", "+977 (01) 4XXXXXX")
-    tel_link = config.get("contact", {}).get("telephone", "+97714000000")
-    email = config.get("contact", {}).get("email", "info@pathivaralawfirmsunsari.com")
-    hours = config.get("contact", {}).get("office_hours", "Sun–Fri 9:30 AM–5:30 PM")
     primary_loc = config.get("locations", {}).get("primary", {})
-    address = primary_loc.get("formatted_address", "Kathmandu, Nepal")
+    branch_loc = config.get("locations", {}).get("branch", {})
+    mobile1 = config.get("contact", {}).get("mobile_primary", "+977-9745875449")
+    mobile2 = config.get("contact", {}).get("mobile_secondary", "+977-9852057087")
+    branch_mobile = config.get("contact", {}).get("branch_mobile", "+977-9852059106")
+    branch_mobile_display = config.get("contact", {}).get("branch_mobile_display", "9852059106")
+    email = config.get("contact", {}).get("email", "sauzandhakal1999@gmail.com")
+    hours = config.get("contact", {}).get("office_hours", "Monday to Friday: 9:30 AM – 5:00 PM (Closed on Saturdays, Sundays & Public Holidays)")
+    address = primary_loc.get("formatted_address", "Adalat Road, Inaruwa, Sunsari, Nepal")
+    branch_address = branch_loc.get("formatted_address", "Itahari-4 (Bagaicha Tole), Sunsari, Nepal")
 
-    title = f"Contact Our Law Chambers in Nepal | {firm_name}"
-    description = "Contact PATHIVARA LAW FIRM SUNSARI in Kathmandu and Koshi Province. Verified telephone, office hours, email, and accessible legal inquiry form."
+    title = f"Contact Our Law Chambers in Sunsari | {firm_name}"
+    description = "Contact PATHIVARA LAW FIRM SUNSARI at our primary Inaruwa chambers or Itahari branch in Sunsari, Koshi Province. Verified mobile numbers, email, and legal inquiry form."
     canonical = "/contact/"
 
     crumbs = [("Contact Chambers", "")]
@@ -363,9 +369,9 @@ def render_contact_page(config):
         <div class="hero-inner">
           <div>
             <div class="hero-badge">Direct Chambers Communication</div>
-            <h1 class="hero-title">Contact Our Law Chambers in Nepal</h1>
+            <h1 class="hero-title">Contact Our Law Chambers in Sunsari</h1>
             <p class="hero-subtitle">
-              Reach our registry in Kathmandu and Koshi Province for case consultations, corporate retainer inquiries, and court appointment coordination.
+              Reach our registry in Inaruwa and Itahari, Sunsari for case consultations, corporate retainer inquiries, and court litigation representation across Koshi Province and the Supreme Court of Nepal.
             </p>
           </div>
         </div>
@@ -380,21 +386,21 @@ def render_contact_page(config):
           </h2>
 
           <div style="background: #ffffff; border: 1px solid var(--color-border); border-radius: var(--radius-md); padding: 1.75rem; margin-bottom: 1.5rem; box-shadow: var(--shadow-sm);">
-            <h3 style="color: var(--color-primary); font-size: 1.25rem; margin-bottom: 0.75rem;">Primary Kathmandu Chambers</h3>
+            <h3 style="color: var(--color-primary); font-size: 1.25rem; margin-bottom: 0.75rem;">Primary Sunsari Chambers (Inaruwa)</h3>
             <p style="margin-bottom: 0.5rem;"><strong>Address:</strong> {address}</p>
-            <p style="margin-bottom: 0.5rem;"><strong>Telephone:</strong> <a href="tel:{tel_link}">{phone}</a></p>
+            <p style="margin-bottom: 0.5rem;"><strong>Mobile:</strong> <a href="tel:{mobile1}">9745875449</a> / <a href="tel:{mobile2}">9852057087</a></p>
             <p style="margin-bottom: 0.5rem;"><strong>Registry Email:</strong> <a href="mailto:{email}">{email}</a></p>
             <p style="margin-bottom: 0.5rem;"><strong>Office Hours:</strong> {hours}</p>
             <p style="font-size: 0.85rem; color: var(--color-text-muted); margin: 0;">
-              Serving Supreme Court of Nepal, High Court Patan, and District Courts of Kathmandu, Lalitpur, and Bhaktapur.
+              Serving Sunsari District Court (Inaruwa), Morang District Court, High Court Biratnagar, and Supreme Court of Nepal.
             </p>
           </div>
 
           <div style="background: #ffffff; border: 1px solid var(--color-border); border-radius: var(--radius-md); padding: 1.75rem; margin-bottom: 1.5rem; box-shadow: var(--shadow-sm);">
-            <h3 style="color: var(--color-primary); font-size: 1.25rem; margin-bottom: 0.75rem;">Koshi Province Office (Itahari / Sunsari)</h3>
-            <p style="margin-bottom: 0.5rem;"><strong>Address:</strong> Main Road, Itahari-6, Sunsari, Nepal</p>
-            <p style="margin-bottom: 0.5rem;"><strong>Branch Telephone:</strong> +977-25-580000</p>
-            <p style="margin-bottom: 0.5rem;"><strong>Office Hours:</strong> Sunday – Friday: 9:30 AM – 5:00 PM</p>
+            <h3 style="color: var(--color-primary); font-size: 1.25rem; margin-bottom: 0.75rem;">Branch Office (Itahari - Koshi Province)</h3>
+            <p style="margin-bottom: 0.5rem;"><strong>Address:</strong> {branch_address}</p>
+            <p style="margin-bottom: 0.5rem;"><strong>Branch Mobile:</strong> <a href="tel:{branch_mobile}">{branch_mobile_display}</a></p>
+            <p style="margin-bottom: 0.5rem;"><strong>Office Hours:</strong> Monday – Friday: 9:30 AM – 5:00 PM</p>
             <p style="font-size: 0.85rem; color: var(--color-text-muted); margin: 0;">
               Serving High Court Biratnagar, Sunsari District Court (Inaruwa), and Morang District Court.
             </p>
@@ -617,7 +623,7 @@ def render_privacy_page(config):
 
       <h2>5. Contact for Privacy Inquiries</h2>
       <p>
-        For inquiries regarding our privacy standards or to request correction of your personal data, contact our chambers data compliance officer at <code>info@pathivaralawfirmsunsari.com</code>.
+        For inquiries regarding our privacy standards or to request correction of your personal data, contact our chambers data compliance officer at <code>sauzandhakal1999@gmail.com</code>.
       </p>
 
       {render_disclaimer()}
@@ -663,7 +669,7 @@ def render_terms_page(config):
 
       <h2>5. Governing Law &amp; Jurisdiction</h2>
       <p>
-        These Terms of Use are governed by and construed in accordance with the laws of the Federal Democratic Republic of Nepal. Any dispute arising out of or related to this website shall be subject to the exclusive jurisdiction of the competent courts of Kathmandu, Nepal.
+        These Terms of Use are governed by and construed in accordance with the laws of the Federal Democratic Republic of Nepal. Any dispute arising out of or related to this website shall be subject to the exclusive jurisdiction of the competent courts of Sunsari District, Nepal.
       </p>
 
       {render_disclaimer()}
@@ -801,8 +807,8 @@ def render_accessibility_page(config):
         If you experience any accessibility barrier while browsing our site or need assistance with any legal guide, please contact our accessibility coordinator:
       </p>
       <p>
-        Email: <code>accessibility@pathivaralawfirmsunsari.com</code><br>
-        Chambers Registry: <code>+977 (01) 4XXXXXX</code>
+        Email: <code>sauzandhakal1999@gmail.com</code><br>
+        Chambers Registry Mobile: <code>9745875449 / 9852057087</code>
       </p>
 
       {render_disclaimer()}
@@ -879,7 +885,7 @@ def render_sitemap_page(services, articles, config):
             </ul>
           </li>
           <li><a href="/legal-consultation/">Schedule a Structured Legal Consultation</a></li>
-          <li><a href="/contact/">Contact Our Law Chambers (Kathmandu &amp; Koshi)</a></li>
+          <li><a href="/contact/">Contact Our Law Chambers (Sunsari - Inaruwa &amp; Itahari)</a></li>
           <li><a href="/faqs/">Frequently Asked Questions (FAQs)</a></li>
           <li><a href="/testimonials/">Client Experiences &amp; Ethics Notice</a></li>
           <li><a href="/privacy-policy/">Privacy Policy &amp; Client Data Confidentiality</a></li>

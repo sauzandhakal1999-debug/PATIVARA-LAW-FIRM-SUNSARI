@@ -30,32 +30,32 @@ class SiteConfig:
     jurisdiction: str = "Federal Democratic Republic of Nepal"
 
     # 2. Primary Contact & Locations
-    primary_phone: str = "+977-25-580000"
-    primary_email: str = "info@pathivaralawfirmsunsari.com"
-    consultation_email: str = "consult@pathivaralawfirmsunsari.com"
-    emergency_phone: str = "+977-9852000000"
-    office_hours: str = "Sunday – Friday: 9:30 AM – 5:30 PM (Closed Saturdays & Public Holidays)"
-    whatsapp_number: str = "+9779852000000"
+    primary_phone: str = "9745875449 / 9852057087"
+    primary_email: str = "sauzandhakal1999@gmail.com"
+    consultation_email: str = "sauzandhakal1999@gmail.com"
+    emergency_phone: str = "+977-9852057087"
+    office_hours: str = "Monday – Friday: 9:30 AM – 5:00 PM (Closed Saturdays, Sundays & Public Holidays)"
+    whatsapp_number: str = "+9779852057087"
 
     # Locations
     offices: List[OfficeLocation] = field(default_factory=lambda: [
         OfficeLocation(
-            city="Sunsari (Inaruwa / Itahari)",
+            city="Inaruwa",
             province="Koshi Province",
-            address="Main Road (Near District Court / Municipality), Sunsari, Nepal",
+            address="Adalat Road, Inaruwa, Sunsari, Nepal",
             is_primary=True,
-            phone="+977-25-580000",
-            email="sunsari@pathivaralawfirmsunsari.com",
-            court_jurisdictions=["High Court Biratnagar", "Sunsari District Court (Inaruwa)", "Morang District Court", "Dharan Municipal Bench"]
+            phone="9745875449 / 9852057087",
+            email="sauzandhakal1999@gmail.com",
+            court_jurisdictions=["Sunsari District Court (Inaruwa)", "Morang District Court", "High Court Biratnagar", "Supreme Court of Nepal"]
         ),
         OfficeLocation(
-            city="Kathmandu",
-            province="Bagmati Province",
-            address="Babarmahal (Opposite District Court), Kathmandu, Nepal",
+            city="Itahari",
+            province="Koshi Province",
+            address="Itahari-4 (Bagaicha Tole), Sunsari, Nepal",
             is_primary=False,
-            phone="+977-1-4240000",
-            email="kathmandu@pathivaralawfirmsunsari.com",
-            court_jurisdictions=["Supreme Court of Nepal", "High Court Patan", "Special Court (Kathmandu)"]
+            phone="+977-9852059106",
+            email="sauzandhakal1999@gmail.com",
+            court_jurisdictions=["High Court Biratnagar", "Sunsari District Court (Inaruwa)", "Morang District Court"]
         )
     ])
 

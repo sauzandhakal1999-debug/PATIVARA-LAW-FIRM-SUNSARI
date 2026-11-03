@@ -59,10 +59,10 @@ def get_base_html(title, description, canonical_url, body_content, schema_json, 
 def render_header(config, current_url="/"):
     firm_name = config.get("firm_name", "PATHIVARA LAW FIRM SUNSARI")
     tagline = config.get("firm_tagline", "Specialized Legal Advocacy & Advisory")
-    phone = config.get("contact", {}).get("telephone_display", "+977 (01) 4XXXXXX")
-    tel_link = config.get("contact", {}).get("telephone", "+97714000000")
-    primary_city = config.get("locations", {}).get("primary", {}).get("city", "Kathmandu")
-    hours = config.get("contact", {}).get("office_hours", "Sun–Fri 9:30 AM–5:30 PM NPT")
+    mobile1 = config.get("contact", {}).get("mobile_primary", "+977-9745875449")
+    mobile2 = config.get("contact", {}).get("mobile_secondary", "+977-9852057087")
+    primary_city = config.get("locations", {}).get("primary", {}).get("city", "Inaruwa")
+    hours = config.get("contact", {}).get("office_hours", "Monday to Friday: 9:30 AM – 5:00 PM")
 
     def is_active(path):
         if path == "/" and current_url == "/":
@@ -74,9 +74,9 @@ def render_header(config, current_url="/"):
     return f"""<header class="site-header">
   <div class="top-bar">
     <div class="container top-bar-inner">
-      <span>Official Chambers in {primary_city}, Nepal | {hours}</span>
+      <span>Official Chambers in Inaruwa &amp; Itahari, Sunsari (Koshi Province) | {hours}</span>
       <div>
-        <span>Direct Registry: <a href="tel:{tel_link}">{phone}</a></span>
+        <span>Direct Registry Mobile: <a href="tel:{mobile1}">9745875449</a> / <a href="tel:{mobile2}">9852057087</a></span>
       </div>
     </div>
   </div>
@@ -225,10 +225,15 @@ def render_disclaimer(custom_text=None):
 def render_footer(config):
     firm_name = config.get("firm_name", "PATHIVARA LAW FIRM SUNSARI")
     primary_loc = config.get("locations", {}).get("primary", {})
-    phone = config.get("contact", {}).get("telephone_display", "+977 (01) 4XXXXXX")
-    tel_link = config.get("contact", {}).get("telephone", "+97714000000")
-    email = config.get("contact", {}).get("email", "info@pathivaralawfirmsunsari.com")
-    address = primary_loc.get("formatted_address", "Kathmandu, Nepal")
+    branch_loc = config.get("locations", {}).get("branch", {})
+    mobile1 = config.get("contact", {}).get("mobile_primary", "+977-9745875449")
+    mobile2 = config.get("contact", {}).get("mobile_secondary", "+977-9852057087")
+    branch_mobile = config.get("contact", {}).get("branch_mobile", "+977-9852059106")
+    branch_mobile_display = config.get("contact", {}).get("branch_mobile_display", "9852059106")
+    email = config.get("contact", {}).get("email", "sauzandhakal1999@gmail.com")
+    address = primary_loc.get("formatted_address", "Adalat Road, Inaruwa, Sunsari, Nepal")
+    branch_address = branch_loc.get("formatted_address", "Itahari-4 (Bagaicha Tole), Sunsari, Nepal")
+    hours = config.get("contact", {}).get("office_hours", "Monday to Friday: 9:30 AM – 5:00 PM (Closed on Saturdays, Sundays & Public Holidays)")
     bar_info = config.get("regulatory", {}).get("bar_registration_number", "Nepal Bar Council Registered")
 
     return f"""<footer class="site-footer">
@@ -239,9 +244,12 @@ def render_footer(config):
         Dedicated legal advocacy, commercial counsel, and dispute resolution across Nepal. Operating in strict accordance with the Nepal Bar Council Code of Conduct (2051).
       </p>
       <div class="footer-contact">
-        <p><strong>Office:</strong> {address}</p>
-        <p><strong>Registry:</strong> <a href="tel:{tel_link}">{phone}</a></p>
-        <p><strong>Enquiries:</strong> <a href="mailto:{email}">{email}</a></p>
+        <p><strong>Primary Office:</strong> {address}</p>
+        <p><strong>Branch Office:</strong> {branch_address}</p>
+        <p><strong>Primary Mobile:</strong> <a href="tel:{mobile1}">9745875449</a> / <a href="tel:{mobile2}">9852057087</a></p>
+        <p><strong>Branch Mobile:</strong> <a href="tel:{branch_mobile}">{branch_mobile_display}</a></p>
+        <p><strong>Registry Email:</strong> <a href="mailto:{email}">{email}</a></p>
+        <p><strong>Office Hours:</strong> {hours}</p>
         <p><strong>Regulatory:</strong> {bar_info}</p>
       </div>
     </div>

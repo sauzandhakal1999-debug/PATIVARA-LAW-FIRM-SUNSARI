@@ -8,16 +8,21 @@ from builder.templates import (
 
 def render_home(config, services, articles, team, faqs):
     firm_name = config.get("firm_name", "PATHIVARA LAW FIRM SUNSARI")
-    phone = config.get("contact", {}).get("telephone_display", "+977 (01) 4XXXXXX")
-    tel_link = config.get("contact", {}).get("telephone", "+97714000000")
     primary_loc = config.get("locations", {}).get("primary", {})
-    city = primary_loc.get("city", "Kathmandu")
-    address = primary_loc.get("formatted_address", "Kathmandu, Nepal")
-    hours = config.get("contact", {}).get("office_hours", "Sun–Fri 9:30 AM–5:30 PM")
+    branch_loc = config.get("locations", {}).get("branch", {})
+    mobile1 = config.get("contact", {}).get("mobile_primary", "+977-9745875449")
+    mobile2 = config.get("contact", {}).get("mobile_secondary", "+977-9852057087")
+    branch_mobile = config.get("contact", {}).get("branch_mobile", "+977-9852059106")
+    branch_mobile_display = config.get("contact", {}).get("branch_mobile_display", "9852059106")
+    city = primary_loc.get("city", "Inaruwa")
+    address = primary_loc.get("formatted_address", "Adalat Road, Inaruwa, Sunsari, Nepal")
+    branch_address = branch_loc.get("formatted_address", "Itahari-4 (Bagaicha Tole), Sunsari, Nepal")
+    hours = config.get("contact", {}).get("office_hours", "Monday to Friday: 9:30 AM – 5:00 PM (Closed on Saturdays, Sundays & Public Holidays)")
+    email = config.get("contact", {}).get("email", "sauzandhakal1999@gmail.com")
     site_url = config.get("site_url", "https://www.pathivaralawfirmsunsari.com")
 
     title = "Specialized Legal Advocacy & Trusted Advisory in Nepal | PATHIVARA LAW FIRM SUNSARI"
-    description = "Leading law firm in Kathmandu, Nepal providing specialized court representation, commercial advisory, property due diligence, and dispute resolution under Nepalese law."
+    description = "Leading law firm in Sunsari, Nepal providing specialized court representation across Sunsari District Court (Inaruwa), Morang District Court, High Court Biratnagar, and Supreme Court of Nepal."
 
     schema = {
         "@context": "https://schema.org",
@@ -28,16 +33,17 @@ def render_home(config, services, articles, team, faqs):
                 "name": firm_name,
                 "description": description,
                 "url": site_url,
-                "telephone": config.get("contact", {}).get("telephone", "+97714000000"),
-                "email": config.get("contact", {}).get("email", "info@pathivaralawfirmsunsari.com"),
+                "telephone": mobile1,
+                "email": email,
                 "address": {
                     "@type": "PostalAddress",
                     "streetAddress": address,
                     "addressLocality": city,
+                    "addressRegion": "Sunsari District, Koshi Province",
                     "addressCountry": "NP"
                 },
-                "openingHours": "Su,Mo,Tu,We,Th,Fr 09:30-17:30",
-                "areaServed": ["Kathmandu", "Lalitpur", "Bhaktapur", "Itahari", "Inaruwa", "Biratnagar", "Nepal"]
+                "openingHours": "Mo,Tu,We,Th,Fr 09:30-17:00",
+                "areaServed": ["Inaruwa", "Itahari", "Sunsari", "Biratnagar", "Morang", "Koshi Province", "Nepal"]
             },
             {
                 "@type": "WebSite",
@@ -109,7 +115,7 @@ def render_home(config, services, articles, team, faqs):
               Principled Representation Rooted in Nepalese Statutory Law
             </h2>
             <p style="font-size: 1.05rem; line-height: 1.7; color: var(--color-text); margin-bottom: 1.25rem;">
-              {firm_name} operates with a steadfast commitment to professional ethics, procedural rigor, and substantive excellence under the <strong>Nepal Bar Council Act 2050</strong>. Headquartered in {city} with consultation facilities serving clients across Koshi Province (Itahari, Inaruwa, Biratnagar) and nationwide, our chambers prioritize thorough case evaluation before litigation.
+              {firm_name} operates with a steadfast commitment to professional ethics, procedural rigor, and substantive excellence under the <strong>Nepal Bar Council Act 2050</strong>. Headquartered at Adalat Road, Inaruwa with branch facilities at Itahari-4 (Bagaicha Tole), Sunsari District, serving clients across Koshi Province (Inaruwa, Itahari, Biratnagar, Dharan) and nationwide before the Supreme Court of Nepal, our chambers prioritize thorough case evaluation before litigation.
             </p>
             <p style="color: var(--color-text-muted); line-height: 1.6; margin-bottom: 1.5rem;">
               We strictly decline to guarantee judicial outcomes. Instead, our advocates provide realistic statutory assessments, meticulous pleading drafting, and dedicated advocacy before judicial and administrative tribunals.
@@ -134,10 +140,13 @@ def render_home(config, services, articles, team, faqs):
               <h3 style="color: var(--color-primary); font-size: 1.25rem; margin-bottom: 1rem;">Official Chambers Registry</h3>
               <ul style="list-style: none; padding: 0; margin-bottom: 1.5rem;">
                 <li style="margin-bottom: 0.75rem;"><strong>Primary Chambers:</strong> {address}</li>
-                <li style="margin-bottom: 0.75rem;"><strong>Registry Telephone:</strong> <a href="tel:{tel_link}">{phone}</a></li>
+                <li style="margin-bottom: 0.75rem;"><strong>Branch Office:</strong> {branch_address}</li>
+                <li style="margin-bottom: 0.75rem;"><strong>Registry Mobile:</strong> <a href="tel:{mobile1}">9745875449</a> / <a href="tel:{mobile2}">9852057087</a></li>
+                <li style="margin-bottom: 0.75rem;"><strong>Branch Mobile:</strong> <a href="tel:{branch_mobile}">{branch_mobile_display}</a></li>
+                <li style="margin-bottom: 0.75rem;"><strong>Registry Email:</strong> <a href="mailto:{email}">{email}</a></li>
                 <li style="margin-bottom: 0.75rem;"><strong>Office Consultation Hours:</strong> {hours}</li>
                 <li style="margin-bottom: 0.75rem;"><strong>Bar Council Regulatory:</strong> Compliant with Nepal Bar Council Code of Conduct 2051</li>
-                <li style="margin-bottom: 0.75rem;"><strong>Provincial Practice:</strong> Bagmati Province, Koshi Province (Sunsari / Morang)</li>
+                <li style="margin-bottom: 0.75rem;"><strong>Jurisdictions Served:</strong> Sunsari District Court (Inaruwa), Morang District Court, High Court Biratnagar, Supreme Court of Nepal</li>
               </ul>
               <a href="/contact/" class="btn btn-outline" style="width: 100%; text-align: center;">View Location &amp; Directions →</a>
             </div>
@@ -320,9 +329,9 @@ def render_home(config, services, articles, team, faqs):
               Prospective clients, corporate retainers, and legal counsel may contact our registry during standard chambers hours. For initial inquiries, please schedule a formal appointment to guarantee advocate availability.
             </p>
             <div style="margin-bottom: 1.5rem;">
-              <p style="margin-bottom: 0.5rem;"><strong>Primary Registry Telephone:</strong> <a href="tel:{tel_link}">{phone}</a></p>
-              <p style="margin-bottom: 0.5rem;"><strong>Chambers Email:</strong> <a href="mailto:{config.get('contact', {}).get('email', '')}">{config.get('contact', {}).get('email', '')}</a></p>
-              <p style="margin-bottom: 0.5rem;"><strong>Consultation Desk:</strong> <a href="mailto:{config.get('contact', {}).get('consultation_email', '')}">{config.get('contact', {}).get('consultation_email', '')}</a></p>
+              <p style="margin-bottom: 0.5rem;"><strong>Primary Registry Mobile:</strong> <a href="tel:{mobile1}">9745875449</a> / <a href="tel:{mobile2}">9852057087</a></p>
+              <p style="margin-bottom: 0.5rem;"><strong>Branch Mobile:</strong> <a href="tel:{branch_mobile}">{branch_mobile_display}</a></p>
+              <p style="margin-bottom: 0.5rem;"><strong>Chambers Email:</strong> <a href="mailto:{email}">{email}</a></p>
               <p style="margin-bottom: 0.5rem;"><strong>Office Registry Hours:</strong> {hours}</p>
             </div>
             <div style="display: flex; gap: 1rem;">
