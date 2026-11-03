@@ -77,7 +77,7 @@ document.addEventListener('DOMContentLoaded', function () {
       setTimeout(function () {
         showStatus(
           statusBox,
-          'Your preliminary consultation enquiry has been recorded. Our chambers coordinator will review your request during business hours (Sun–Fri, 9:30 AM–5:30 PM NPT) to confirm advocate availability. Note: Formal advocate-client representation requires execution of a Vakalatnama.',
+          'Your preliminary consultation enquiry has been recorded. Our chambers coordinator will review your request during business hours (Mon–Fri, 9:30 AM–5:00 PM NPT) to confirm advocate availability. Note: Formal advocate-client representation requires execution of a Vakalatnama.',
           'success'
         );
         form.reset();
