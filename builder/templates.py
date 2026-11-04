@@ -8,6 +8,7 @@ import json
 def get_base_html(title, description, canonical_url, body_content, schema_json, config, current_url="/"):
     site_url = config.get("site_url", "https://www.pathivaralawfirmsunsari.com")
     firm_name = config.get("firm_name", "PATHIVARA LAW FIRM SUNSARI")
+    google_verification = config.get("google_site_verification", "mkRQ47PemPty4k_Gs9KEMcGB-5Twq9H1JXG6cIaRUwI")
     clean_canonical = canonical_url if canonical_url.startswith("http") else f"{site_url}{canonical_url}"
 
     schema_tag = ""
@@ -23,6 +24,7 @@ def get_base_html(title, description, canonical_url, body_content, schema_json, 
   <meta name="description" content="{description}">
   <link rel="canonical" href="{clean_canonical}">
   <meta name="robots" content="index, follow">
+  <meta name="google-site-verification" content="{google_verification}">
   
   <!-- Open Graph / Social Sharing -->
   <meta property="og:type" content="website">

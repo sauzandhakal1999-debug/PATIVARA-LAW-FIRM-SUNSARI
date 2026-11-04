@@ -194,5 +194,13 @@ class TestLawFirmWebsite(unittest.TestCase):
                     has_label = f'for="{inp_id}"' in content or f"for='{inp_id}'" in content
                     self.assertTrue(has_label, f"Input id '{inp_id}' in {rel_file} has no associated <label>")
 
+    def test_google_site_verification_tag(self):
+        expected_tag = '<meta name="google-site-verification" content="mkRQ47PemPty4k_Gs9KEMcGB-5Twq9H1JXG6cIaRUwI">'
+        for html_path in self.html_files:
+            rel_file = os.path.relpath(html_path, DIST_DIR)
+            with open(html_path, "r", encoding="utf-8") as f:
+                content = f.read()
+            self.assertIn(expected_tag, content, f"Missing Google site verification tag in {rel_file}")
+
 if __name__ == "__main__":
     unittest.main()
